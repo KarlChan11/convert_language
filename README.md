@@ -21,4 +21,5 @@
   #### 2. 将 hook-zhconv.py 拷贝到 \Python\Python310\Lib\site-packages\_pyinstaller_hooks_contrib\hooks\stdhooks\下 。
   #### （pyinstaller 才会收集zhconv 库所用到的文件）。
 ### 四. 打包文件
-   #### 1. pyinstaller -F -w main.py --add-data "ui/convert_lang.ui;ui"
+   #### 1. pyinstaller -F -i res/main.ico -w main.py --add-data "ui/convert_lang.ui;ui" --add-data "res/main.ico;res" 
+   #### 参数可以在.spec文件增加一些依赖，详见 https://pyinstaller.org/en/stable/spec-files.html#adding-data-files

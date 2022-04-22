@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language name="zh-cn" guid="{0DAEDE3C-6B94-4a81-9A55-C304FDD69D98}">
   <context>
-    <!--没有上下文的翻译及字符串表的翻译-->
+    <!--沒有上下文的翻譯及字符串表的翻譯-->
 	<!--hrx2.0新增-->
 	<message>
       <source>ok</source>
-      <translation>确定</translation>
+      <translation>確定</translation>
     </message>
 	<message>
       <source>tip:double click mute or dismute</source>
-      <translation>提示：双击禁言/取消禁言</translation>
+      <translation>提示：雙擊禁言/取消禁言</translation>
     </message>
     <message>
       <source>cancel</source>
@@ -17,79 +17,79 @@
     </message>
 	<message>
 		<source>report</source>
-		<translation>举报</translation>
+		<translation>舉報</translation>
 	</message>
 	<message>
 		<source>report people:</source>
-		<translation>检举人：</translation>
+		<translation>檢舉人：</translation>
 	</message>
 	<message>
 		<source>reported people:</source>
-		<translation>被检举人：</translation>
+		<translation>被檢舉人：</translation>
 	</message>
 	<message>
 		<source>reported content:</source>
-		<translation>被举报言论：</translation>
+		<translation>被舉報言論：</translation>
 	</message>
 	<message>
 		<source>press ESC cancel</source>
-		<translation>按ESC键取消</translation>
+		<translation>按ESC鍵取消</translation>
 	</message>
 	<message>
 		<source>enter live room</source>
-		<translation>进入直播间</translation>
+		<translation>進入直播間</translation>
 	</message>
 	<message>
 		<source>leave live room</source>
-		<translation>离开直播间</translation>
+		<translation>離開直播間</translation>
 	</message>
 	<message>
 		<source>open signin</source>
-		<translation>开启签到</translation>
+		<translation>開啓籤到</translation>
 	</message>
 	<message>
 		<source>close signin</source>
-		<translation>关闭签到</translation>
+		<translation>關閉籤到</translation>
 	</message>
 	<message>
 		<source>already ask play</source>
-		<translation>已申请上麦</translation>
+		<translation>已申請上麥</translation>
 	</message>
 	<message>
 		<source>choose interact type</source>
-		<translation>选择连麦方式</translation>
+		<translation>選擇連麥方式</translation>
 	</message>
 	<message>
 		<source>please choose interact type</source>
-		<translation>请选择连麦方式</translation>
+		<translation>請選擇連麥方式</translation>
 	</message>
 	<message>
 		<source>query</source>
-		<translation>查询</translation>
+		<translation>查詢</translation>
 	</message>
 	<message>
 		<source>status</source>
-		<translation>状态</translation>
+		<translation>狀態</translation>
 	</message>
 	<message>
 		<source>network monitor</source>
-		<translation>网络监控</translation>
+		<translation>網絡監控</translation>
 	</message>
 	<message>
 		<source>admin mute on</source>
-		<translation>中台禁言开启 </translation>
+		<translation>中台禁言開啓 </translation>
 	</message>
 	<message>
 		<source>admin sign off</source>
-		<translation>中台签到关闭 </translation>
+		<translation>中台籤到關閉 </translation>
 	</message>
 	<message>
 		<source>end live room</source>
-		<translation>结束直播 </translation>
+		<translation>結束直播 </translation>
 	</message>
 	<message>
 		<source>not start</source>
-		<translation>未开始 </translation>
+		<translation>未開始 </translation>
 	</message>
 	<message>
 		<source>is playbacking</source>
@@ -97,7 +97,7 @@
 	</message>
 	<message>
 		<source>already end</source>
-		<translation>已结束 </translation>
+		<translation>已結束 </translation>
 	</message>
 	<message>
 		<source>is living</source>
@@ -105,23 +105,23 @@
 	</message>
 	<message>
 		<source>call name manager</source>
-		<translation>点名管理</translation>
+		<translation>點名管理</translation>
 	</message>
 	<message>
 		<source>hand up manager</source>
-		<translation>举手管理</translation>
+		<translation>舉手管理</translation>
 	</message>
 	<message>
 		<source>exam manager</source>
-		<translation>考试管理</translation>
+		<translation>考試管理</translation>
 	</message>
 	<message>
 		<source>que manager</source>
-		<translation>问卷管理</translation>
+		<translation>問卷管理</translation>
 	</message>
 	<message>
 		<source>sign in manager</source>
-		<translation>签到管理</translation>
+		<translation>籤到管理</translation>
 	</message>
 	<message>
 		<source>exit live room</source>
@@ -133,41 +133,41 @@
 	</message>
 	<message>
 		<source>train manager</source>
-		<translation>培训管理</translation>
+		<translation>培訓管理</translation>
 	</message>
 	<message>
 		<source>maixu manager</source>
-		<translation>麦序管理</translation>
+		<translation>麥序管理</translation>
 	</message>
 	<!--通用-->
-	<!--错误-->
+	<!--錯誤-->
 	<message>
 		<source>cancel interact live success</source>
-		<translation>取消连麦成功</translation>
+		<translation>取消連麥成功</translation>
 	</message>
 	<message>
 		<source>cancel ask interact success</source>
-		<translation>取消申请连麦成功</translation>
+		<translation>取消申請連麥成功</translation>
 	</message>
 	<message>
 		<source>cancel ask interact fail</source>
-		<translation>取消申请连麦失败</translation>
+		<translation>取消申請連麥失敗</translation>
 	</message>
 	<message>
       <source>assist call name was canceld</source>
-      <translation>助教已取消和您的连麦互动</translation>
+      <translation>助教已取消和您的連麥互動</translation>
     </message>
 	<message>
       <source>anchor call name was canceld</source>
-      <translation>主讲老师已取消和您的连麦互动</translation>
+      <translation>主講老師已取消和您的連麥互動</translation>
     </message>
 	<message>
       <source>sorry，account or password error</source>
-      <translation>对不起，您输入的帐号或密码错误</translation>
+      <translation>對不起，您輸入的帳號或密碼錯誤</translation>
     </message>
 	<message>
       <source>Simplified Chinese</source>
-      <translation>简体中文</translation>
+      <translation>簡體中文</translation>
     </message>
 	<message>
       <source>Traditional Chinese</source>
@@ -183,11 +183,11 @@
     </message>
 	<message>
       <source>anchor is leave now</source>
-      <translation>当前无人直播</translation>
+      <translation>當前無人直播</translation>
     </message>
 	<message>
       <source>current group num</source>
-      <translation>当前分组人数</translation>
+      <translation>當前分組人數</translation>
     </message>
 	<message>
       <source>already receive</source>
@@ -195,63 +195,63 @@
     </message>
 	<message>
       <source>you have not so many scores</source>
-      <translation>你没有这么多的积分</translation>
+      <translation>你沒有這麼多的積分</translation>
     </message>
 	<message>
       <source>can not more than 9999</source>
-      <translation>不能超过9999积分</translation>
+      <translation>不能超過9999積分</translation>
     </message>
 	<message>
       <source>please input positive integer</source>
-      <translation>请输入正整数</translation>
+      <translation>請輸入正整數</translation>
     </message>
 	<message>
       <source>get record list fail</source>
-      <translation>获取红包记录列表失败</translation>
+      <translation>獲取紅包記錄列表失敗</translation>
     </message>
 	<message>
       <source>no red record</source>
-      <translation>无红包记录</translation>
+      <translation>無紅包記錄</translation>
     </message>
 	<message>
       <source>current no audience</source>
-      <translation>当前无观众</translation>
+      <translation>當前無觀眾</translation>
     </message>
 	<message>
       <source>no data</source>
-      <translation>暂无数据</translation>
+      <translation>暫無數據</translation>
     </message>
 	<message>
       <source>please input red score</source>
-      <translation>请输入赠送红包积分数</translation>
+      <translation>請輸入贈送紅包積分數</translation>
     </message>
 	<message>
       <source>get member list fail</source>
-      <translation>获取人员列表失败</translation>
+      <translation>獲取人員列表失敗</translation>
     </message>
 	<message>
       <source>send red packet fail</source>
-      <translation>发送红包失败</translation>
+      <translation>發送紅包失敗</translation>
     </message>
 	<message>
       <source>send red packet success</source>
-      <translation>发送红包成功</translation>
+      <translation>發送紅包成功</translation>
     </message>
 	<message>
       <source>open red packet fail</source>
-      <translation>打开红包失败</translation>
+      <translation>打開紅包失敗</translation>
     </message>
 	<message>
       <source>open red packet success</source>
-      <translation>打开红包成功</translation>
+      <translation>打開紅包成功</translation>
     </message>
 	<message>
       <source>send red packet</source>
-      <translation>发送红包</translation>
+      <translation>發送紅包</translation>
     </message>
 	<message>
       <source>red packet record</source>
-      <translation>红包记录</translation>
+      <translation>紅包記錄</translation>
     </message>
     <message>
       <source>soui demo</source>
@@ -259,15 +259,15 @@
     </message>
 	<message>
       <source>no live room valid</source>
-      <translation>没有可用的直播间！</translation>
+      <translation>沒有可用的直播間！</translation>
     </message>
 	<message>
       <source>audio player not install</source>
-      <translation>音频播放器没有安装，请检查后重试！</translation>
+      <translation>音頻播放器沒有安裝，請檢查後重試！</translation>
     </message>
 	<message>
       <source>application is running</source>
-      <translation>应用程序已经在运行中！</translation>
+      <translation>應用程式已經在運行中！</translation>
     </message>
 	<message>
       <source>message tip</source>
@@ -275,39 +275,39 @@
     </message>
 	<message>
       <source>are you sure upload log?</source>
-      <translation>你确定要上报日志吗？</translation>
+      <translation>你確定要上報日誌嗎？</translation>
     </message>
 	<message>
 		<source>already pause</source>
-		<translation>已暂停</translation>
+		<translation>已暫停</translation>
 	</message>
 	<message>
 		<source>continue</source>
-		<translation>继续</translation>
+		<translation>繼續</translation>
 	</message>
 	<message>
 		<source>end</source>
-		<translation>结束</translation>
+		<translation>結束</translation>
 	</message>
 	<message>
 		<source>UI busy</source>
-		<translation>操作过于频繁，请稍后再试</translation>
+		<translation>操作過於頻繁，請稍後再試</translation>
 	</message>
 	<message>
 		<source>discussing, can not adjust seq</source>
-		<translation>当前正在分组讨论，不能调整麦序哦</translation>
+		<translation>當前正在分組討論，不能調整麥序哦</translation>
 	</message>
 	<message>
 		<source>password error</source>
-		<translation>密码错误</translation>
+		<translation>密碼錯誤</translation>
 	</message>
 	<message>
 		<source>timeout</source>
-		<translation>超时未处理</translation>
+		<translation>超時未處理</translation>
 	</message>
 	<message>
 		<source>operate fail</source>
-		<translation>操作失败</translation>
+		<translation>操作失敗</translation>
 	</message>
 	<!--信息-->
 	<message>
@@ -316,15 +316,15 @@
 	</message>
 	<message>
 		<source>net error</source>
-		<translation>网络错误</translation>
+		<translation>網絡錯誤</translation>
 	</message>
 	<message>
 		<source>login fail with</source>
-		<translation>登录失败：</translation>
+		<translation>登錄失敗：</translation>
 	</message>
 	<message>
 		<source>login</source>
-		<translation>登录</translation>
+		<translation>登錄</translation>
 	</message>
 	<message>
 		<source>classroom on air</source>
@@ -332,7 +332,7 @@
 	</message>
 	<message>
 		<source>system message</source>
-		<translation>系统消息</translation>
+		<translation>系統消息</translation>
 	</message>
 	<message>
 		<source>tip add</source>
@@ -340,7 +340,7 @@
 	</message>
 	<message>
 		<source>microsoft YaHei</source>
-		<translation>微软雅黑</translation>
+		<translation>微軟雅黑</translation>
 	</message>
 	<message>
 		<source>version</source>
@@ -348,151 +348,151 @@
 	</message>
 	<message>
 		<source>log reporting</source>
-		<translation>日志正在上报中</translation>
+		<translation>日誌正在上報中</translation>
 	</message>
 	<message>
 		<source>start log report,please close app</source>
-		<translation>已经开始日志上报，请勿关闭客户端</translation>
+		<translation>已經開始日誌上報，請勿關閉客户端</translation>
 	</message>
 	<message>
 		<source>camera list is empty</source>
-		<translation>未检测到麦克风</translation>
+		<translation>未檢測到麥克風</translation>
 	</message>
 	<message>
 		<source>mic list is empty</source>
-		<translation>未检测到摄像头</translation>
+		<translation>未檢測到攝像頭</translation>
 	</message>
 	
-	<!--分组讨论-->
-	<!--错误-->
+	<!--分組討論-->
+	<!--錯誤-->
 	<message>
       <source>group viewers number not enough</source>
-      <translation>观众人数不足1人，不能创建分组讨论</translation>
+      <translation>觀眾人數不足1人，不能創建分組討論</translation>
     </message>
 	<message>
 		<source>group query viewers number fail</source>
-		<translation>查询观众人数失败</translation>
+		<translation>查詢觀眾人數失敗</translation>
 	</message>
 	<message>
 		<source>group can not create discuss,handup is enable</source>
-		<translation>举手未关闭，不能创建分组讨论</translation>
+		<translation>舉手未關閉，不能創建分組討論</translation>
 	</message>
 	<message>
 		<source>group get group list fail</source>
-		<translation>获取分组列表失败</translation>
+		<translation>獲取分組列表失敗</translation>
 	</message>
     <message>
       <source>get random group list fail</source>
-      <translation>获取随机分组列表失败</translation>
+      <translation>獲取隨機分組列表失敗</translation>
     </message>
 	<message>
 		<source>group dismiss discuss fail</source>
-		<translation>解散分组失败</translation>
+		<translation>解散分組失敗</translation>
 	</message>
 	<message>
 		<source>group switch mic error</source>
-		<translation>切换麦克风失败</translation>
+		<translation>切換麥克風失敗</translation>
 	</message>	
 	<message>
 		<source>group switch cam error</source>
-		<translation>切换摄像头失败</translation>
+		<translation>切換攝像頭失敗</translation>
 	</message>	
 	<message>
 		<source>group enter room error</source>
-		<translation>进入分组讨论小直播间失败</translation>
+		<translation>進入分組討論小直播間失敗</translation>
 	</message>	
 	<message>
 		<source>group exit room error</source>
-		<translation>退出分组讨论小直播间失败</translation>
+		<translation>退出分組討論小直播間失敗</translation>
 	</message>
 	<message>
 		<source>please input as least 10 words</source>
-		<translation>请输入至少10个字</translation>
+		<translation>請輸入至少10個字</translation>
 	</message>
 	<message>
 		<source>send fail</source>
-		<translation>发送失败</translation>
+		<translation>發送失敗</translation>
 	</message>
 	<message>
 		<source>group leader number should not be 0</source>
-		<translation>分组数量不能为0</translation>
+		<translation>分組數量不能為0</translation>
 	</message>
 	<message>
 		<source>group number should not be 0</source>
-		<translation>分组数量不能为0</translation>
+		<translation>分組數量不能為0</translation>
 	</message>
 	<message>
 		<source>group number should not less than default</source>
-		<translation>不能小于默认值</translation>
+		<translation>不能小於默認值</translation>
 	</message>
 	<message>
 		<source>group leader number should not more than limit</source>
-		<translation>组长人数不能超过限制</translation>
+		<translation>組長人數不能超過限制</translation>
 	</message>
 	<message>
 		<source>group number should not more than limit</source>
-		<translation>分组数量不能超过限制</translation>
+		<translation>分組數量不能超過限制</translation>
 	</message>
 	<message>
 		<source>group leader number differ from group number</source>
-		<translation>组长人数与分组数不一致</translation>
+		<translation>組長人數與分組數不一致</translation>
 	</message>
 	<message>
 		<source>group interact live support at most 2 viewers number</source>
-		<translation>最多支持同时与2位观众连麦</translation>
+		<translation>最多支持同時與2位觀眾連麥</translation>
 	</message>
 	<!--信息-->
 	<message>
 		<source>group continue discuss</source>
-		<translation>继续讨论</translation>
+		<translation>繼續討論</translation>
 	</message>
 	<message>
 		<source>group pause discuss</source>
-		<translation>暂停讨论</translation>
+		<translation>暫停討論</translation>
   </message>
   <message>
     <source>group discuss</source>
-    <translation>分组讨论</translation>
+    <translation>分組討論</translation>
   </message>
   <message>
     <source>create group discuss</source>
-    <translation>创建分组讨论</translation>
+    <translation>創建分組討論</translation>
   </message>
 	<message>
 		<source>group discuss create success</source>
-		<translation>创建成功</translation>
+		<translation>創建成功</translation>
 	</message>
 	<message>
 		<source>camera closed</source>
-		<translation>麦克风断开</translation>
+		<translation>麥克風斷開</translation>
 	</message>
 	<message>
 		<source>share screen now,are you sure to end current share?</source>
-		<translation>正在分享屏幕，确定结束当前分享屏幕吗？</translation>
+		<translation>正在分享屏幕，確定結束當前分享屏幕嗎？</translation>
 	</message>
 	<message>
 		<source>can not modify settings while on live</source>
-		<translation>不能在讲课时修改设置</translation>
+		<translation>不能在講課時修改設置</translation>
 	</message>
 	<message>
 		<source>busy now,please wait</source>
-		<translation>处理中，请稍后</translation>
+		<translation>處理中，請稍後</translation>
 	</message>
 	<message>
 		<source>share screen disabled</source>
-		<translation>共享屏幕未开启</translation>
+		<translation>共享屏幕未開啓</translation>
 	</message>
 	<message>
 		<source>please wait room admin for live</source>
-		<translation>当前禁止抢麦，请耐心等待助教抱麦</translation>
+		<translation>當前禁止搶麥，請耐心等待助教抱麥</translation>
 	</message>
 	<message>
 		<source>send success</source>
-		<translation>发送成功</translation>
+		<translation>發送成功</translation>
 	</message>
 	<message>
 		<source>group create success</source>
-		<translation>分组创建成功!</translation>
+		<translation>分組創建成功!</translation>
 	</message>
 	<message>
 		<source>group create tip 0</source>
@@ -500,7 +500,7 @@
 	</message>
 	<message>
 		<source>group create tip 1</source>
-		<translation>人，预计每组学员</translation>
+		<translation>人，預計每組學員</translation>
 	</message>
 	<message>
 		<source>group create tip 2</source>
@@ -508,149 +508,149 @@
 	</message>
 	<message>
 		<source>are you sure to quit group discuss?</source>
-		<translation>确定退出分组讨论？</translation>
+		<translation>確定退出分組討論？</translation>
 	</message>
 	
-	<!--提问墙-->
+	<!--提問牆-->
 	<message>
 		<source>query im que list fail</source>
-		<translation>查询提问墙信息失败</translation>
+		<translation>查詢提問牆信息失敗</translation>
 	</message>
 	<message>
 		<source>are you sure to show this im que?</source>
-		<translation>确定将这条提问上墙全体可见吗？</translation>
+		<translation>確定將這條提問上牆全體可見嗎？</translation>
 	</message>
 	<message>
 		<source>show im que fail</source>
-		<translation>上墙失败</translation>
+		<translation>上牆失敗</translation>
 	</message>
 	<message>
 		<source>answer im que fail</source>
-		<translation>回复失败，或该提问已被回复</translation>
+		<translation>回復失敗，或該提問已被回復</translation>
 	</message>
 	<message>
 		<source>auto answer im que config fail</source>
-		<translation>自动上墙配置修改失败</translation>
+		<translation>自動上牆配置修改失敗</translation>
 	</message>
 	<message>
 		<source>are you sure to auto show im que?</source>
-		<translation>确认开启学员自动上墙功能吗？</translation>
+		<translation>確認開啓學員自動上牆功能嗎？</translation>
 	</message>
 	
-	<!--登录提示-->
+	<!--登錄提示-->
 	<message>
 		<source>password</source>
-		<translation>密码</translation>
+		<translation>密碼</translation>
 	</message>
 	<message>
 		<source>please input right phone number</source>
-		<translation>请输入正确的手机号</translation>
+		<translation>請輸入正確的手機號</translation>
 	</message>
     <message>
       <source>no network err</source>
-      <translation>网络出错</translation>
+      <translation>網絡出錯</translation>
     </message>
     <message>
       <source>account or password error</source>
-      <translation>账号密码不匹配</translation>
+      <translation>賬號密碼不匹配</translation>
     </message>
     <message>
 		<source>verification code</source>
-		<translation>验证码</translation>
+		<translation>驗證碼</translation>
 	</message>
 	<message>
 		<source>password length less than eight bit</source>
-		<translation>密码长度不足8位</translation>
+		<translation>密碼長度不足8位</translation>
 	</message>
 	<message>
 		<source>verify code should be six bit</source>
-		<translation>验证码应为6位</translation>
+		<translation>驗證碼應為6位</translation>
 	</message>
 	
-	<!--验证码提示-->
+	<!--驗證碼提示-->
 	<message>
 		<source>net error,please retry</source>
-		<translation>网络异常，请重试</translation>
+		<translation>網絡異常，請重試</translation>
 	</message>
 	
-	<!--MsgBox 标题提示-->
+	<!--MsgBox 標題提示-->
 	<message>
 		<source>ErrorTips</source>
-		<translation>错误提示</translation>
+		<translation>錯誤提示</translation>
 	</message>
 	
-	<!--直播间-->
+	<!--直播間-->
 	<message>
 		<source>open devices error</source>
-		<translation>打开设备失败</translation>
+		<translation>打開設備失敗</translation>
 	</message>
 	<message>
 		<source>open mic error</source>
-		<translation>请检查您的麦克风是否正常,请稍后重试</translation>
+		<translation>請檢查您的麥克風是否正常,請稍後重試</translation>
 	</message>
 	<message>
 		<source>open camera error</source>
-		<translation>请检查您的摄像头是否正常,请稍后重试</translation>
+		<translation>請檢查您的攝像頭是否正常,請稍後重試</translation>
 	</message>
 	<message>
 		<source>anchor call name fail,open camera fail</source>
-		<translation>主讲老师刚点名与您连麦不成功,请检查您的摄像头是否正常</translation>
+		<translation>主講老師剛點名與您連麥不成功,請檢查您的攝像頭是否正常</translation>
 	</message>
 	<message>
 		<source>anchor call name fail,open mic fail</source>
-		<translation>主讲老师刚点名与您连麦不成功,请检查您的麦克风是否正常</translation>
+		<translation>主講老師剛點名與您連麥不成功,請檢查您的麥克風是否正常</translation>
 	</message>
 	<message>
 		<source>anchor call name fail,viewer offline</source>
-		<translation>连麦处理超时，对方可能不在</translation>
+		<translation>連麥處理超時，對方可能不在</translation>
 	</message>
 	<message>
 		<source>call name</source>
-		<translation>点名</translation>
+		<translation>點名</translation>
 	</message>
     <message>
       <source>rand calling...</source>
-      <translation>学员抽取中...</translation>
+      <translation>學員抽取中...</translation>
     </message>
 	<message>
 		<source>congratulations,you get a chance interact with anchor</source>
-		<translation>恭喜您获得上台与主讲老师连麦互动的机会</translation>
+		<translation>恭喜您獲得上台與主講老師連麥互動的機會</translation>
 	</message>
 	<message>
 		<source>you have a expired call name request</source>
-		<translation>刚您被点名邀请连麦，您超时未处理</translation>
+		<translation>剛您被點名邀請連麥，您超時未處理</translation>
 	</message>
 	<message>
 		<source>request a live</source>
-		<translation>上麦申请</translation>
+		<translation>上麥申請</translation>
 	</message>
 	<message>
 		<source>interact live fail,perhaps network problems</source>
-		<translation>连麦失败，可能是网络问题</translation>
+		<translation>連麥失敗，可能是網絡問題</translation>
 	</message>
 	<message>
 		<source>share screen fail</source>
-		<translation>分享失败</translation>
+		<translation>分享失敗</translation>
 	</message>
 	<message>
 		<source>camera closed,exit room</source>
-		<translation>摄像头断开,退出直播！</translation>
+		<translation>攝像頭斷開,退出直播！</translation>
 	</message>
 	<message>
 		<source>enter room fail</source>
-		<translation>进入直播失败</translation>
+		<translation>進入直播失敗</translation>
 	</message>
 	<message>
 		<source>this live is end</source>
-		<translation>该直播活动已结束，无法进入直播</translation>
+		<translation>該直播活動已結束，無法進入直播</translation>
 	</message>
 	<message>
 		<source>live room end</source>
-		<translation>本直播已经结束</translation>
+		<translation>本直播已經結束</translation>
 	</message>
 	<message>
 		<source>anchor is connecting for live,operation forbidden</source>
-		<translation>有主讲老师正在上麦中，禁止操作</translation>
+		<translation>有主講老師正在上麥中，禁止操作</translation>
 	</message>
 	<message>
 		<source>anchor ask permit 0</source>
@@ -658,123 +658,123 @@
 	</message>
 	<message>
 		<source>anchor ask permit 1</source>
-		<translation>】上麦讲课，您将下麦</translation>
+		<translation>】上麥講課，您將下麥</translation>
 	</message>
 	<message>
 		<source>anchor ask permit 2</source>
-		<translation>确定将【</translation>
+		<translation>確定將【</translation>
 	</message>
 	<message>
 		<source>anchor ask permit 3</source>
-		<translation>】上麦讲课，并将【</translation>
+		<translation>】上麥講課，並將【</translation>
 	</message>
 	<message>
 		<source>anchor ask permit 4</source>
-		<translation>】下麦吗？</translation>
+		<translation>】下麥嗎？</translation>
 	</message>
 	<message>
 		<source>start on live</source>
-		<translation>上麦</translation>
+		<translation>上麥</translation>
 	</message>
 	<message>
 		<source>server return error</source>
-		<translation>调用后台接口失败</translation>
+		<translation>調用後台接口失敗</translation>
 	</message>
 	<message>
 		<source>other side response error</source>
-		<translation>对方回应失败</translation>
+		<translation>對方回應失敗</translation>
 	</message>
 	<message>
 		<source>start on live time out,other side offline</source>
-		<translation>上麦处理超时，对方可能不在</translation>
+		<translation>上麥處理超時，對方可能不在</translation>
 	</message>
 	<message>
 		<source>server return unknown error</source>
-		<translation>服务器返回未知错误</translation>
+		<translation>伺服器返回未知錯誤</translation>
 	</message>
 	<message>
 		<source>interact live forbidden</source>
-		<translation>当前禁止连麦</translation>
+		<translation>當前禁止連麥</translation>
 	</message>
 	<message>
 		<source>interact live forbidden,no anchor on live</source>
-		<translation>当前麦上没有主讲老师，不能连麦</translation>
+		<translation>當前麥上沒有主講老師，不能連麥</translation>
 	</message>
 	<message>
 		<source>interact live forbidden,already on live</source>
-		<translation>已经在麦上，当前不能进行连麦</translation>
+		<translation>已經在麥上，當前不能進行連麥</translation>
 	</message>
 	<message>
 		<source>interact live fail,please check camera or mic</source>
-		<translation>不能连麦，请检查您的摄像头或麦克风是否正常</translation>
+		<translation>不能連麥，請檢查您的攝像頭或麥克風是否正常</translation>
 	</message>
 	<message>
 		<source>are you sure to start interact live with anchor</source>
-		<translation>确定申请与主讲老师连麦吗？</translation>
+		<translation>確定申請與主講老師連麥嗎？</translation>
 	</message>
 	<message>
 		<source>interact live</source>
-		<translation>连麦</translation>
+		<translation>連麥</translation>
 	</message>
 	<message>
 		<source>interact live request fail,server return error</source>
-		<translation>服务器错误，提交连麦申请失败</translation>
+		<translation>伺服器錯誤，提交連麥申請失敗</translation>
 	</message>
 	<message>
 		<source>already submit a interact live request,wait for auditing</source>
-		<translation>已提交连麦申请，请耐心等待审核</translation>
+		<translation>已提交連麥申請，請耐心等待審核</translation>
 	</message>
 	<message>
 		<source>cancel interact live request fail,server return error</source>
-		<translation>服务器错误，取消连麦申请失败</translation>
+		<translation>伺服器錯誤，取消連麥申請失敗</translation>
 	</message>
 	<message>
 		<source>already submit a reauest</source>
-		<translation>您已提交过申请</translation>
+		<translation>您已提交過申請</translation>
 	</message>
 	<message>
 		<source>open camera fail</source>
-		<translation>打开摄像头失败</translation>
+		<translation>打開攝像頭失敗</translation>
 	</message>
 	<message>
 		<source>please enter room after 10 min before anchor on live</source>
-		<translation>请在开播前10分钟之后再进入讲课</translation>
+		<translation>請在開播前10分鐘之後再進入講課</translation>
 	</message>
 	<message>
 		<source>please enter room after</source>
-		<translation>请在开播前</translation>
+		<translation>請在開播前</translation>
 	</message>
 	<message>
 		<source>min before anchor on live</source>
-		<translation>分钟之后再进入讲课</translation>
+		<translation>分鐘之後再進入講課</translation>
 	</message>
 	<message>
 		<source>you have no right to enter this room</source>
-		<translation>您无权进入直播</translation>
+		<translation>您無權進入直播</translation>
 	</message>
 	<message>
 		<source>enter room fail,the viewers number reach the upper limit</source>
-		<translation>进直播失败: 达到人数限制，请稍后重试</translation>
+		<translation>進直播失敗: 達到人數限制，請稍後重試</translation>
 	</message>
 	<message>
 		<source>please check the loudspeaker</source>
-		<translation>请检查您的扬声器是否正常</translation>
+		<translation>請檢查您的揚聲器是否正常</translation>
 	</message>
 	<message>
 		<source>enter room fail:network error</source>
-		<translation>进入直播失败：网络异常</translation>
+		<translation>進入直播失敗：網絡異常</translation>
 	</message>
 	<message>
 		<source>admin</source>
-		<translation>管理员</translation>
+		<translation>管理員</translation>
 	</message>
 	<message>
 		<source>tip when enter room</source>
-		<translation>请遵守国家相关法律法规和本单位的管理制度，本单位将按照制度对违规行为进行监督和处理</translation>
+		<translation>請遵守國家相關法律法規和本單位的管理制度，本單位將按照制度對違規行為進行監督和處理</translation>
 	</message>
 	<message>
 		<source>anchor agree you request for interact live,you fail to connect</source>
-		<translation>主讲老师刚同意了您的连麦申请，您未连上</translation>
+		<translation>主講老師剛同意了您的連麥申請，您未連上</translation>
 	</message>
 	<message>
 		<source>you have been banned to send msg</source>
@@ -786,11 +786,11 @@
 	</message>
 	<message>
 		<source>fail to send que msg</source>
-		<translation>提问消息发送失败</translation>
+		<translation>提問消息發送失敗</translation>
 	</message>
 	<message>
 		<source>raise hand fail,now in group discuss</source>
-		<translation>分组讨论期间，无法开启举手</translation>
+		<translation>分組討論期間，無法開啓舉手</translation>
 	</message>
 	<message>
 		<source>user</source>
@@ -798,95 +798,95 @@
 	</message>
 	<message>
 		<source>user is invite to interact live,please wait</source>
-		<translation>正在被连麦邀请上麦中，请稍候进行操作</translation>
+		<translation>正在被連麥邀請上麥中，請稍候進行操作</translation>
 	</message>
 	<message>
 		<source>the user is on live,can not repeat interact live</source>
-		<translation>该学员已经在麦上，不能重复连麦</translation>
+		<translation>該學員已經在麥上，不能重複連麥</translation>
 	</message>
 	<message>
 		<source>start interact live time out,other side offline</source>
-		<translation>连麦处理超时，对方可能不在</translation>
+		<translation>連麥處理超時，對方可能不在</translation>
 	</message>
 	<message>
 		<source>already have users waiting to live</source>
-		<translation>已有学员等待上麦</translation>
+		<translation>已有學員等待上麥</translation>
 	</message>
 	<message>
 		<source>the users wait to live reach the upper limit</source>
-		<translation>最多支持同时与2位观众连麦</translation>
+		<translation>最多支持同時與2位觀眾連麥</translation>
 	</message>
 	<message>
 		<source>visit server to live fail</source>
-		<translation>访问连麦服务器失败</translation>
+		<translation>訪問連麥伺服器失敗</translation>
 	</message>
 	<message>
 		<source>visit server to call name fail</source>
-		<translation>访问点名服务器失败</translation>
+		<translation>訪問點名伺服器失敗</translation>
 	</message>
 	<message>
 		<source>call name fail,now in group discuss</source>
-		<translation>分组讨论阶段，无法点名连麦</translation>
+		<translation>分組討論階段，無法點名連麥</translation>
 	</message>
 	<message>
 		<source>call name fail,now enable interact live</source>
-		<translation>开启举手时不能进行点名操作</translation>
+		<translation>開啓舉手時不能進行點名操作</translation>
 	</message>
 	<message>
 		<source>call name fail,no anchor on live</source>
-		<translation>没有主讲老师在麦上，不能进行点名</translation>
+		<translation>沒有主講老師在麥上，不能進行點名</translation>
 	</message>
 	<message>
 		<source>some user is trying interact live now,please call name later</source>
-		<translation>有用户正在连麦中，请稍候进行点名操作</translation>
+		<translation>有用户正在連麥中，請稍候進行點名操作</translation>
 	</message>
 	<message>
 		<source>anchor is calling name now,please wait</source>
-		<translation>正在点名，请稍候进行操作</translation>
+		<translation>正在點名，請稍候進行操作</translation>
 	</message>
 	<message>
 		<source>there is no viewer to interact live with,can not call name</source>
-		<translation>直播还没有可连麦的观众，不能使用点名</translation>
+		<translation>直播還沒有可連麥的觀眾，不能使用點名</translation>
 	</message>
 	<message>
 		<source>call name fail due to server error</source>
-		<translation>服务器异常引起的点名操作失败</translation>
+		<translation>伺服器異常引起的點名操作失敗</translation>
 	</message>
 	<message>
 		<source>interact live disable</source>
-		<translation>未开启连麦</translation>
+		<translation>未開啓連麥</translation>
 	</message>
 	<message>
 		<source>trying interact live now,please wait</source>
-		<translation>正在连麦，请稍候进行操作</translation>
+		<translation>正在連麥，請稍候進行操作</translation>
 	</message>
 	<message>
 		<source>admin has end the live room</source>
-		<translation>系统管理员已结束本场直播</translation>
+		<translation>系統管理員已結束本場直播</translation>
 	</message>
 	<message>
 		<source>sign in disable</source>
-		<translation>签到未开启</translation>
+		<translation>籤到未開啓</translation>
 	</message>
 	<message>
 		<source>enter room fail,query agreement status error</source>
-		<translation>进入直播失败：查询直播协议状态失败</translation>
+		<translation>進入直播失敗：查詢直播協議狀態失敗</translation>
 	</message>
 	<message>
 		<source>no permission</source>
-		<translation>无权限</translation>
+		<translation>無權限</translation>
 	</message>
 	<message>
 		<source>no permission to mute anchor or  room admin</source>
-		<translation>不可禁言主讲老师或助教</translation>
+		<translation>不可禁言主講老師或助教</translation>
 	</message>
 	<message>
 		<source>server return error</source>
-		<translation>服务器返回错误</translation>
+		<translation>伺服器返回錯誤</translation>
 	</message>
 	<message>
 		<source>forbidden to send msg,please take care of caremony</source>
-		<translation>已被禁止发言，请注意聊天礼仪</translation>
+		<translation>已被禁止發言，請注意聊天禮儀</translation>
 	</message>
 	<message>
 		<source>has been mute off</source>
@@ -894,160 +894,160 @@
 	</message>
 	<message>
 		<source>request for live approved,click ok and you will on live</source>
-		<translation>对方同意了您的上麦申请，确定则您上麦开始直播</translation>
+		<translation>對方同意了您的上麥申請，確定則您上麥開始直播</translation>
 	</message>
 	<message>
 		<source>you have a expired request for live</source>
-		<translation>刚您被邀请上麦直播，您超时未处理</translation>
+		<translation>剛您被邀請上麥直播，您超時未處理</translation>
 	</message>
 	<message>
 		<source>dealing with anchor ask permit 0</source>
-		<translation>正在处理【</translation>
+		<translation>正在處理【</translation>
 	</message>
 	<message>
 		<source>dealing with anchor ask permit 1</source>
-		<translation>】的上麦申请，请稍后</translation>
+		<translation>】的上麥申請，請稍後</translation>
 	</message>
 	<message>
 		<source>dealing with anchor ask permit 2</source>
-		<translation>】的上麦，请稍后</translation>
+		<translation>】的上麥，請稍後</translation>
 	</message>
 	<message>
 		<source>dealing with anchor ask permit 3</source>
-		<translation>】的下麦，请稍后</translation>
+		<translation>】的下麥，請稍後</translation>
 	</message>
 	<message>
 		<source>room admin,you will end live</source>
-		<translation>助教将您下麦结束直播</translation>
+		<translation>助教將您下麥結束直播</translation>
 	</message>
 	<message>
 		<source>end live now,please wait</source>
-		<translation>正在处理下麦，请稍后</translation>
+		<translation>正在處理下麥，請稍後</translation>
 	</message>
 	<message>
 		<source>exit room,please wait</source>
-		<translation>正在退房中，请稍后</translation>
+		<translation>正在退房中，請稍後</translation>
 	</message>
 	<message>
 		<source>please do not enable sign in frequently</source>
-		<translation>请勿频繁开启签到</translation>
+		<translation>請勿頻繁開啓籤到</translation>
 	</message>
 	<message>
 		<source>are you sure to end live and end the lesson?</source>
-		<translation>确认下麦并结束直播吗？</translation>
+		<translation>確認下麥並結束直播嗎？</translation>
 	</message>
 	<message>
 		<source>end live</source>
-		<translation>下麦</translation>
+		<translation>下麥</translation>
 	</message>
 	<message>
 		<source>are you sure to end live?</source>
-		<translation>确认结束连麦吗？</translation>
+		<translation>確認結束連麥嗎？</translation>
 	</message>
 	<message>
 		<source>anchor push a que,go to finish it?</source>
-		<translation>老师推送了一份问卷，立即去做问卷？</translation>
+		<translation>老師推送了一份問卷，立即去做問卷？</translation>
 	</message>
 	<message>
 		<source>push a que</source>
-		<translation>问卷推送</translation>
+		<translation>問卷推送</translation>
 	</message>
 	<message>
 		<source>room admin force play 0</source>
-		<translation>确定将【</translation>
+		<translation>確定將【</translation>
 	</message>
 	<message>
 		<source>room admin force play 1</source>
-		<translation>】上麦直播，并将【</translation>
+		<translation>】上麥直播，並將【</translation>
 	</message>
 	<message>
 		<source>room admin force play 2</source>
-		<translation>】下麦吗？</translation>
+		<translation>】下麥嗎？</translation>
 	</message>
 	<message>
 		<source>room admin force play 3</source>
-		<translation>】上麦吗？</translation>
+		<translation>】上麥嗎？</translation>
 	</message>
 	<message>
 		<source>room admin force play 4</source>
-		<translation>】下麦吗？</translation>
+		<translation>】下麥嗎？</translation>
 	</message>
 	<message>
 		<source>anchor enable sign in,sign in now?</source>
-		<translation>签到已开启，快来签到吧！</translation>
+		<translation>籤到已開啓，快來籤到吧！</translation>
 	</message>
 	<message>
 		<source>sign in</source>
-		<translation>签到</translation>
+		<translation>籤到</translation>
 	</message>
 	<message>
 		<source>you are off live,lesson end</source>
-		<translation>您已经下麦，直播中断</translation>
+		<translation>您已經下麥，直播中斷</translation>
 	</message>	
 	<message>
 		<source>heart error,check fail</source>
-		<translation>心跳异常，校验参数失败</translation>
+		<translation>心跳異常，校驗參數失敗</translation>
 	</message>
 	<message>
 		<source>lesson end</source>
-		<translation>直播中断</translation>
+		<translation>直播中斷</translation>
 	</message>
 	<message>
 		<source>net error,lesson end</source>
-		<translation>当前网络状况不佳，直播中断</translation>
+		<translation>當前網絡狀況不佳，直播中斷</translation>
 	</message>
 	<message>
 		<source>get exam result fail</source>
-		<translation>获取考试成绩信息失败</translation>
+		<translation>獲取考試成績信息失敗</translation>
 	</message>
 	<message>
 		<source>viewer stop play 0</source>
-		<translation>确认结束与</translation>
+		<translation>確認結束與</translation>
 	</message>
 	<message>
 		<source>viewer stop play 1</source>
-		<translation>的连麦吗？</translation>
+		<translation>的連麥嗎？</translation>
 	</message>
 	<message>
 		<source>enable mute all</source>
-		<translation>已开启全员禁言</translation>
+		<translation>已開啓全員禁言</translation>
 	</message>
 	<message>
 		<source>disable mute all</source>
-		<translation>已解除全员禁言</translation>
+		<translation>已解除全員禁言</translation>
 	</message>
 	<message>
 		<source>sign in fail</source>
-		<translation>签到失败</translation>
+		<translation>籤到失敗</translation>
 	</message>
 	<message>
 		<source>sign in success</source>
-		<translation>签到成功</translation>
+		<translation>籤到成功</translation>
 	</message>
 	<message>
 		<source>sign in finish</source>
-		<translation>签到了</translation>
+		<translation>籤到了</translation>
 	</message>
 	
 	<message>
 		<source>disable interact live</source>
-		<translation>已关闭举手</translation>
+		<translation>已關閉舉手</translation>
 	</message>
 	<message>
 		<source>enable interact live</source>
-		<translation>已开启举手</translation>
+		<translation>已開啓舉手</translation>
 	</message>
 	<message>
 		<source>no anchor on live,interact live forbidden</source>
-		<translation>当前无人直播，禁止开启连麦</translation>
+		<translation>當前無人直播，禁止開啓連麥</translation>
 	</message>
 	<message>
 		<source>already submit,please wait anchor to examine</source>
-		<translation>已提交申请，请耐心等待审核</translation>
+		<translation>已提交申請，請耐心等待審核</translation>
 	</message>
 	<message>
 		<source>anchor teachor</source>
-		<translation>讲师</translation>
+		<translation>講師</translation>
 	</message>
 	<message>
 		<source>room admin</source>
@@ -1055,15 +1055,15 @@
 	</message>
 	<message>
 		<source>viewer</source>
-		<translation>观众</translation>
+		<translation>觀眾</translation>
 	</message>
 	<message>
 		<source>send to anchor</source>
-		<translation>给主讲老师送了</translation>
+		<translation>給主講老師送了</translation>
 	</message>
 	<message>
 		<source>unit</source>
-		<translation>个</translation>
+		<translation>個</translation>
 	</message>
 	<message>
 		<source>quit or not?</source>
@@ -1075,15 +1075,15 @@
 	</message>
 	<message>
 		<source>are you sure to exit room?</source>
-		<translation>确认离开直播吗？</translation>
+		<translation>確認離開直播嗎？</translation>
 	</message>
 	<message>
 		<source>are you sure to exit room,all viewers will be dissolved?</source>
-		<translation>确认结束整场直播吗？</translation>
+		<translation>確認結束整場直播嗎？</translation>
 	</message>
 	<message>
 		<source>log in fail</source>
-		<translation>登录失败</translation>
+		<translation>登錄失敗</translation>
 	</message>
 	<message>
 		<source>tip cancel</source>
@@ -1091,39 +1091,39 @@
 	</message>
 	<message>
 		<source>you have already logged in,please relogin</source>
-		<translation>您已在其他端登录，请重新登录！</translation>
+		<translation>您已在其他端登錄，請重新登錄！</translation>
 	</message>
 	<message>
 		<source>you have already enter room on other client</source>
-		<translation>您已在其他端进入直播</translation>
+		<translation>您已在其他端進入直播</translation>
 	</message>
 	<message>
 		<source>is showing mood now</source>
-		<translation>当前正在展示气氛</translation>
+		<translation>當前正在展示氣氛</translation>
 	</message>
 	
-	<!--直播间ChatRoomService-->
+	<!--直播間ChatRoomService-->
 	<message>
 		<source>query mood list fail</source>
-		<translation>获取气氛列表失败</translation>
+		<translation>獲取氣氛列表失敗</translation>
 	</message>
 	<message>
 		<source>start live fail</source>
-		<translation>上麦失败</translation>
+		<translation>上麥失敗</translation>
 	</message>
 	<message>
 		<source>not in live room</source>
-		<translation>不在直播间中</translation>
+		<translation>不在直播間中</translation>
 	</message>
 	<message>
 		<source>net error,please try later</source>
-		<translation>网络异常，请稍后重试</translation>
+		<translation>網絡異常，請稍後重試</translation>
 	</message>
 	
 	<!--ImService-->
 	<message>
 		<source>you send a private message to anchor</source>
-		<translation>您私信了讲师</translation>
+		<translation>您私信了講師</translation>
 	</message>
 	<message>
 		<source>send a private message to you</source>
@@ -1133,7 +1133,7 @@
 	<!--UI cef-->
 	<message>
 		<source>load error,please check if net is OK</source>
-		<translation>加载失败，请检查网络是否正常</translation>
+		<translation>加載失敗，請檢查網絡是否正常</translation>
 	</message>
 	
 	<!--UI ChatCtrl-->
@@ -1145,7 +1145,7 @@
 	<!--UI Exam-->
 	<message>
 		<source>are you sure to push this exam paper?</source>
-		<translation>确定推送该考试吗？</translation>
+		<translation>確定推送該考試嗎？</translation>
 	</message>
 	<message>
 		<source>push success</source>
@@ -1153,43 +1153,43 @@
 	</message>
 	<message>
 		<source>exam has already been pushed</source>
-		<translation>考试已被推送</translation>
+		<translation>考試已被推送</translation>
 	</message>
 	<message>
 		<source>exam has already end,can not push</source>
-		<translation>考试已结束，不能再推送</translation>
+		<translation>考試已結束，不能再推送</translation>
 	</message>
 	<message>
 		<source>push fail</source>
-		<translation>推送失败</translation>
+		<translation>推送失敗</translation>
 	</message>
 	<message>
 		<source>are you sure to hand in the paper?</source>
-		<translation>确认交卷？</translation>
+		<translation>確認交卷？</translation>
 	</message>
 	<message>
 		<source>anchor pushed a exam paper,go to finish it now?</source>
-		<translation>老师推送了一份考试，立即去做考试？</translation>
+		<translation>老師推送了一份考試，立即去做考試？</translation>
 	</message>
 	<message>
 		<source>exam pushing</source>
-		<translation>考试推送</translation>
+		<translation>考試推送</translation>
 	</message>
 	<message>
 		<source>finish later</source>
-		<translation>稍后再做</translation>
+		<translation>稍後再做</translation>
 	</message>
 	<message>
 		<source>go to the exam</source>
-		<translation>去考试</translation>
+		<translation>去考試</translation>
 	</message>
 	<message>
 		<source>single choice question</source>
-		<translation>【单选题】</translation>
+		<translation>【單選題】</translation>
 	</message>
 	<message>
 		<source>multi choice question</source>
-		<translation>【多选题】</translation>
+		<translation>【多選題】</translation>
 	</message>
 	<message>
 		<source>points</source>
@@ -1199,87 +1199,87 @@
 	<!--UI GroupDiscuss-->
 	<message>
 		<source>please input digit</source>
-		<translation>请输入数字</translation>
+		<translation>請輸入數字</translation>
 	</message>
 	<message>
 		<source>digit out of limit,please reinput</source>
-		<translation>输入超出范围，请重新输入</translation>
+		<translation>輸入超出範圍，請重新輸入</translation>
 	</message>
 	<message>
 		<source>team leader</source>
-		<translation>组组长</translation>
+		<translation>組組長</translation>
 	</message>
 	<message>
 		<source>member unit</source>
-		<translation>名成员</translation>
+		<translation>名成員</translation>
 	</message>
 	<message>
 		<source>enter group discuss room fail</source>
-		<translation>进入小直播间失败</translation>
+		<translation>進入小直播間失敗</translation>
 	</message>
 	<message>
 		<source>dismiss group discuss ensure message</source>
-		<translation>确定要解散讨论吗？解散分组后，所有学员将返回直播，解散后，无法恢复原分组情况继续讨论。</translation>
+		<translation>確定要解散討論嗎？解散分組後，所有學員將返回直播，解散後，無法恢復原分組情況繼續討論。</translation>
 	</message>
 	<message>
 		<source>group discuss dismissed</source>
-		<translation>分组讨论已解散</translation>
+		<translation>分組討論已解散</translation>
 	</message>
 	<message>
 		<source>group discuss paused</source>
-		<translation>分组讨论已暂停</translation>
+		<translation>分組討論已暫停</translation>
 	</message>
 	<message>
 		<source>group discuss continue</source>
-		<translation>分组讨论继续！</translation>
+		<translation>分組討論繼續！</translation>
 	</message>
 	<message>
 		<source>pause group discuss ensure message</source>
-		<translation>确定要暂停讨论吗？暂停讨论后，所有学员将返回直播，并可以进行组长发言。</translation>
+		<translation>確定要暫停討論嗎？暫停討論後，所有學員將返回直播，並可以進行組長發言。</translation>
 	</message>
 	<message>
 		<source>query group discuss list fail</source>
-		<translation>获取分组列表失败</translation>
+		<translation>獲取分組列表失敗</translation>
 	</message>
 	<message>
 		<source>continue group discuss ensure message</source>
-		<translation>确定要继续讨论吗？继续讨论后，所有学员将返回分组内进行讨论。</translation>
+		<translation>確定要繼續討論嗎？繼續討論後，所有學員將返回分組內進行討論。</translation>
 	</message>
 	<message>
 		<source>please close interact live,then try to start group discuss</source>
-		<translation>请先结束连麦，再继续分组讨论</translation>
+		<translation>請先結束連麥，再繼續分組討論</translation>
 	</message>
 	<message>
 		<source>group discuss notify content length should not less than 10</source>
-		<translation>公告字符长度不能小于10！</translation>
+		<translation>公告字符長度不能小於10！</translation>
 	</message>
 	<message>
 		<source>query viewers list fail</source>
-		<translation>查询观众列表失败！</translation>
+		<translation>查詢觀眾列表失敗！</translation>
 	</message>
 	<message>
 		<source>team</source>
-		<translation>组</translation>
+		<translation>組</translation>
 	</message>
 	<message>
 		<source>seconds later</source>
-		<translation>s后</translation>
+		<translation>s後</translation>
 	</message>
 	<message>
 		<source>auto return to air live room</source>
-		<translation>自动返回直播...</translation>
+		<translation>自動返回直播...</translation>
 	</message>
 	<message>
 		<source>continue group discuss,you are in</source>
-		<translation>继续分组讨论，您在</translation>
+		<translation>繼續分組討論，您在</translation>
 	</message>
 	<message>
 		<source>group status switch fail</source>
-		<translation>切换状态失败</translation>
+		<translation>切換狀態失敗</translation>
 	</message>
 	<message>
 		<source>in group discuss,interactive live forbidden</source>
-		<translation>分组讨论中，无法连麦</translation>
+		<translation>分組討論中，無法連麥</translation>
 	</message>
 	
 	<!--UI ImQue-->
@@ -1289,63 +1289,63 @@
 	</message>
 	<message>
 		<source>record unit</source>
-		<translation>条记录</translation>
+		<translation>條記錄</translation>
 	</message>
 	<message>
 		<source>query im que information fail</source>
-		<translation>查询提问墙信息失败</translation>
+		<translation>查詢提問牆信息失敗</translation>
 	</message>
 	
 	<!--UI LoginImageWnd-->
 	<message>
 		<source>login image varification code tip 0</source>
-		<translation>即将给</translation>
+		<translation>即將給</translation>
 	</message>
 	<message>
 		<source>login image varification code tip 1</source>
-		<translation>请输入以下图形验证码：</translation>
+		<translation>請輸入以下圖形驗證碼：</translation>
 	</message>
 	<message>
 		<source>login image code error,please input again</source>
-		<translation>验证码错误，请重新输入</translation>
+		<translation>驗證碼錯誤，請重新輸入</translation>
 	</message>
 	<message>
 		<source>request image code error</source>
-		<translation>请求验证码出错了</translation>
+		<translation>請求驗證碼出錯了</translation>
 	</message>
 	<message>
 		<source>please input the right image varification code</source>
-		<translation>请填写正确的验证码</translation>
+		<translation>請填寫正確的驗證碼</translation>
 	</message>
 	
 	<!--UI LoginWnd-->
 	<message>
 		<source>login with phone varification code</source>
-		<translation>短信验证码登录</translation>
+		<translation>短訊驗證碼登錄</translation>
 	</message>
 	<message>
 		<source>login with password</source>
-		<translation>账号密码登录</translation>
+		<translation>賬號密碼登錄</translation>
 	</message>
 	<message>
 		<source>account</source>
-		<translation>账号</translation>
+		<translation>賬號</translation>
 	</message>
 	<message>
 		<source>login with qr code</source>
-		<translation>扫码登录</translation>
+		<translation>掃碼登錄</translation>
 	</message>
 	<message>
 		<source>send already</source>
-		<translation>已发送</translation>
+		<translation>已發送</translation>
 	</message>
 	<message>
 		<source>get varification code for login</source>
-		<translation>获取验证码</translation>
+		<translation>獲取驗證碼</translation>
 	</message>
 	<message>
 		<source>version update available</source>
-		<translation>版本已提供更新下载</translation>
+		<translation>版本已提供更新下載</translation>
 	</message>
 	<message>
 		<source>the update content include:</source>
@@ -1353,27 +1353,27 @@
 	</message>
 	<message>
 		<source>please input the right phone number</source>
-		<translation>请输入正确的手机号</translation>
+		<translation>請輸入正確的手機號</translation>
 	</message>
 	
 	<!--UI MainSettingWnd-->
 	<message>
 		<source>camera disconnect,please reopen!</source>
-		<translation>摄像头断开,请重新打开！</translation>
+		<translation>攝像頭斷開,請重新打開！</translation>
 	</message>
 	<message>
 		<source>mic disconnect,please reopen!</source>
-		<translation>麦克风断开,请重新打开！</translation>
+		<translation>麥克風斷開,請重新打開！</translation>
 	</message>
 	
 	<!--UI MainWnd-->
 	<message>
 		<source>no anchor online now</source>
-		<translation>暂无主讲老师</translation>
+		<translation>暫無主講老師</translation>
 	</message>
 	<message>
 		<source>anchor:</source>
-		<translation>主讲老师: </translation>
+		<translation>主講老師: </translation>
 	</message>
 	<message>
 		<source>on live time:</source>
@@ -1389,7 +1389,7 @@
 	</message>
 	<message>
 		<source>mute all</source>
-		<translation>全员禁言</translation>
+		<translation>全員禁言</translation>
 	</message>
 	<message>
 		<source>been muted</source>
@@ -1397,31 +1397,31 @@
 	</message>
 	<message>
 		<source>please do not send empty message</source>
-		<translation>请不要发送空消息</translation>
+		<translation>請不要發送空消息</translation>
 	</message>
 	<message>
 		<source>not on live,can not send announcement</source>
-		<translation>当前未上麦，不能发公告</translation>
+		<translation>當前未上麥，不能發公告</translation>
 	</message>
 	<message>
 		<source>no anchor on live,can not send question</source>
-		<translation>当前无人直播，不能使用提问</translation>
+		<translation>當前無人直播，不能使用提問</translation>
 	</message>
 	<message>
 		<source>no anchor on live</source>
-		<translation>没有当前主播</translation>
+		<translation>沒有當前主播</translation>
 	</message>
 	<message>
 		<source>cancel follow</source>
-		<translation>取消关注</translation>
+		<translation>取消關注</translation>
 	</message>
 	<message>
 		<source>follow</source>
-		<translation>关注</translation>
+		<translation>關注</translation>
 	</message>
 	<message>
 		<source>check person detail</source>
-		<translation>查看个人资料</translation>
+		<translation>查看個人資料</translation>
 	</message>
 	<message>
 		<source>mute</source>
@@ -1429,7 +1429,7 @@
 	</message>
 	<message>
 		<source>already on live time:</source>
-		<translation>开播时间：</translation>
+		<translation>開播時間：</translation>
 	</message>
 	<message>
 		<source>anchor teaching now</source>
@@ -1437,7 +1437,7 @@
 	</message>
 	<message>
 		<source>room already end</source>
-		<translation>已结束</translation>
+		<translation>已結束</translation>
 	</message>
 	<message>
 		<source>playing record now</source>
@@ -1449,27 +1449,27 @@
 	</message>
 	<message>
 		<source>group team index tip 1</source>
-		<translation>组)</translation>
+		<translation>組)</translation>
 	</message>
 	<message>
 		<source>return to main live room fail</source>
-		<translation>返回直播间失败</translation>
+		<translation>返回直播間失敗</translation>
 	</message>
 	<message>
 		<source>anchor is in group discuss</source>
-		<translation>主讲老师在分组讨论中</translation>
+		<translation>主講老師在分組討論中</translation>
 	</message>
 	<message>
 		<source>query group discuss announcement fail</source>
-		<translation>查询分组公告失败</translation>
+		<translation>查詢分組公告失敗</translation>
 	</message>
 	<message>
 		<source>group leader</source>
-		<translation>组长</translation>
+		<translation>組長</translation>
 	</message>
 	<message>
 		<source>anchor is uping</source>
-		<translation>主讲老师上麦中</translation>
+		<translation>主講老師上麥中</translation>
 	</message>
 	
 	<!--UI NetworkSpeedtest-->
@@ -1479,103 +1479,103 @@
 	</message>
 	<message>
 		<source>excellent</source>
-		<translation>优</translation>
+		<translation>優</translation>
 	</message>
 	<message>
 		<source>speed test result tip 0</source>
-		<translation>放心大胆直播，较少有延迟情况</translation>
+		<translation>放心大膽直播，較少有延遲情況</translation>
 	</message>
 	<message>
 		<source>speed test result tip 1</source>
-		<translation>可以正常开课，没有明显延迟情况</translation>
+		<translation>可以正常開課，沒有明顯延遲情況</translation>
 	</message>
 	
 	<!--UI Que-->
 	<message>
 		<source>are you sure to push the que paper?</source>
-		<translation>确定推送该问卷吗？</translation>
+		<translation>確定推送該問卷嗎？</translation>
 	</message>
 	<message>
 		<source>que has been pushed</source>
-		<translation>问卷已被推送</translation>
+		<translation>問卷已被推送</translation>
 	</message>
 	
 	<!--UI RandOverWnd-->
 	<message>
 		<source>rand over tip 0</source>
-		<translation>邀请</translation>
+		<translation>邀請</translation>
 	</message>
 	<message>
 		<source>rand over tip 1</source>
-		<translation>连麦发言！</translation>
+		<translation>連麥發言！</translation>
 	</message>
    <message>
       <source>get the chance to interact anchor live,please wait</source>
-      <translation>获得与讲师连麦的机会,请等候!</translation>
+      <translation>獲得與講師連麥的機會,請等候!</translation>
    </message>
     
 	<!--UI RateDialog-->
 	<message>
 		<source>rate level tip 0</source>
-		<translation>请给本场直播评分</translation>
+		<translation>請給本場直播評分</translation>
 	</message>
 	<message>
 		<source>rate level tip 1</source>
-		<translation>特别差，1分都多</translation>
+		<translation>特別差，1分都多</translation>
 	</message>
 	<message>
 		<source>rate level tip 2</source>
-		<translation>很差，2分完全是给面子</translation>
+		<translation>很差，2分完全是給面子</translation>
 	</message>
 	<message>
 		<source>rate level tip 3</source>
-		<translation>不好，直播水准还有待提升</translation>
+		<translation>不好，直播水準還有待提升</translation>
 	</message>
 	<message>
 		<source>rate level tip 4</source>
-		<translation>一般般，离及格还差一些</translation>
+		<translation>一般般，離及格還差一些</translation>
 	</message>
 	<message>
 		<source>rate level tip 5</source>
-		<translation>还行吧，进步空间还很大</translation>
+		<translation>還行吧，進步空間還很大</translation>
 	</message>
 	<message>
 		<source>rate level tip 6</source>
-		<translation>还可以，6分给老师鼓励下</translation>
+		<translation>還可以，6分給老師鼓勵下</translation>
 	</message>
 	<message>
 		<source>rate level tip 7</source>
-		<translation>很不错，很有感染力</translation>
+		<translation>很不錯，很有感染力</translation>
 	</message>
 	<message>
 		<source>rate level tip 8</source>
-		<translation>很好，学习完收获很多</translation>
+		<translation>很好，學習完收穫很多</translation>
 	</message>
 	<message>
 		<source>rate level tip 9</source>
-		<translation>非常棒，还差一点就完美了</translation>
+		<translation>非常棒，還差一點就完美了</translation>
 	</message>
 	<message>
 		<source>rate level tip 10</source>
-		<translation>完美，大咖主讲老师就是您了</translation>
+		<translation>完美，大咖主講老師就是您了</translation>
 	</message>
 	<message>
 		<source>you can input at most 200 words</source>
-		<translation>最多只能输入200字哦~</translation>
+		<translation>最多只能輸入200字哦~</translation>
 	</message>
 	
 	<!--UI RollCallWnd-->
 	<message>
 		<source>the user name for search can not be empty</source>
-		<translation>搜索用户名不能为空</translation>
+		<translation>搜索用户名不能為空</translation>
 	</message>
 	<message>
 		<source>the search server return error</source>
-		<translation>搜索服务器出错</translation>
+		<translation>搜索伺服器出錯</translation>
 	</message>
 	<message>
 		<source>can not find the user</source>
-		<translation>搜索不到该用户</translation>
+		<translation>搜索不到該用户</translation>
 	</message>
 	
 	<!--UI ScreenSelectWnd-->
@@ -1591,7 +1591,7 @@
 	</message>
 	<message>
 		<source>the live is end</source>
-		<translation>已结束</translation>
+		<translation>已結束</translation>
 	</message>
 	<message>
 		<source>playing record of the live now</source>
@@ -1599,61 +1599,61 @@
 	</message>
 	<message>
 		<source>the live is end</source>
-		<translation>直播已经结束了!</translation>
+		<translation>直播已經結束了!</translation>
 	</message>
 	 
 	<!--Net-->
 	<message>
       <source>net anomaly,live stop</source>
-      <translation>网络异常，直播已中断</translation>
+      <translation>網絡異常，直播已中斷</translation>
     </message>
    <message>
       <source>data had changed,retry in live please</source>
-      <translation>数据变更，请重新进入</translation>
+      <translation>數據變更，請重新進入</translation>
     </message>
 	<message>
       <source>live load error,please exit room and try again</source>
-      <translation>直播加载错误，请退出重试</translation>
+      <translation>直播加載錯誤，請退出重試</translation>
     </message>
     <message>
       <source>current net unstable</source>
-      <translation>当前网络状况不佳</translation>
+      <translation>當前網絡狀況不佳</translation>
     </message>
 	<message>
       <source>stream block,anchor or your net unstable</source>
-      <translation>视频卡顿：网络状态不佳</translation>
+      <translation>視頻卡頓：網絡狀態不佳</translation>
     </message>
 	<message>
       <source>sdk av fail,please exit room and retry</source>
-      <translation>音视频处理异常，请退出重试</translation>
+      <translation>音視頻處理異常，請退出重試</translation>
     </message>
 	<message>
       <source>please do not pause or continue discuss in 10s</source>
-      <translation>10s内请别频繁暂停/继续分组讨论</translation>
+      <translation>10s內請別頻繁暫停/繼續分組討論</translation>
     </message>
 	<message>
       <source>home</source>
-      <translation>返回主页</translation>
+      <translation>返回主頁</translation>
     </message>
 	<message>
       <source>are you sure to return home?</source>
-      <translation>确认下麦并返回直播列表吗？</translation>
+      <translation>確認下麥並返回直播列表嗎？</translation>
     </message>
     <message>
       <source>are you sure exit when connect to ancho?</source>
-      <translation>您当前正在连麦，是否确认退出直播间？</translation>
+      <translation>您當前正在連麥，是否確認退出直播間？</translation>
     </message>
 	<message>
       <source>change skin fail</source>
-      <translation>换肤失败</translation>
+      <translation>換膚失敗</translation>
     </message>
 	<message>
       <source>change lang fail</source>
-      <translation>切换语言失败</translation>
+      <translation>切換語言失敗</translation>
     </message>
 	<message>
       <source>server not response</source>
-      <translation>服务未响应，请稍后重试</translation>
+      <translation>服務未響應，請稍後重試</translation>
     </message>
 	<message>
       <source>total</source>
@@ -1661,18 +1661,18 @@
     </message>
 	<message>
       <source>records</source>
-      <translation>条记录</translation>
+      <translation>條記錄</translation>
     </message>
 	<message>
       <source>please rate again</source>
-      <translation>请滑动滑块评分</translation>
+      <translation>請滑動滑塊評分</translation>
     </message>
   </context>
 
   <!-- <context name="editmenu"> -->
     <!-- <message> -->
       <!-- <source>copy</source> -->
-      <!-- <translation>复制</translation> -->
+      <!-- <translation>複製</translation> -->
     <!-- </message> -->
     <!-- <message> -->
       <!-- <source>cut</source> -->
@@ -1680,13 +1680,13 @@
     <!-- </message> -->
     <!-- <message> -->
       <!-- <source>paste</source> -->
-      <!-- <translation>粘贴</translation> -->
+      <!-- <translation>粘貼</translation> -->
     <!-- </message> -->
   <!-- </context> -->
   <context name="messagebox">
     <message>
       <source>ok</source>
-      <translation>确定</translation>
+      <translation>確定</translation>
     </message>
     <message>
       <source>cancel</source>
@@ -1694,33 +1694,33 @@
     </message>
     <!-- <message> -->
       <!-- <source>retry</source> -->
-      <!-- <translation>重试</translation> -->
+      <!-- <translation>重試</translation> -->
     <!-- </message> -->
   </context>
   <!-- <context name="dlg_main"> -->
     <!-- <message> -->
       <!-- <source>close</source> -->
-      <!-- <translation>关闭窗口</translation> -->
+      <!-- <translation>關閉窗口</translation> -->
     <!-- </message> -->
   <!-- </context>  -->
   
-  <!--主播麦序-->
+  <!--主播麥序-->
   <context name="ask_anchor">
     <message>
       <source>askList</source>
-      <translation>麦序</translation>
+      <translation>麥序</translation>
     </message>
 	<message>
       <source>stopPlay</source>
-      <translation>下麦</translation>
+      <translation>下麥</translation>
     </message>
 	<message>
       <source>startPlay</source>
-      <translation>上麦</translation>
+      <translation>上麥</translation>
     </message>
 	<message>
       <source>askAnchor(</source>
-      <translation>申请上麦的主播 (</translation>
+      <translation>申請上麥的主播 (</translation>
     </message>
 	<message>
       <source>people)</source>
@@ -1732,35 +1732,35 @@
     </message>
 	<message>
       <source>waitRespondFromTheOtherSide</source>
-      <translation>等待对方确认</translation>
+      <translation>等待對方確認</translation>
     </message>
 	<message>
       <source>response from otherside time out</source>
-      <translation>对方确认超时</translation>
+      <translation>對方確認超時</translation>
     </message>
 	<message>
       <source>the otherside already confirm</source>
-      <translation>对方已确认</translation>
+      <translation>對方已確認</translation>
     </message>
 	<message>
       <source>anchor on live time:</source>
-      <translation>当前在麦 </translation>
+      <translation>當前在麥 </translation>
     </message>
 	<message>
       <source>anchor list</source>
-      <translation>主播名单</translation>
+      <translation>主播名單</translation>
     </message>
 	<message>
       <source>leave</source>
-      <translation>离开</translation>
+      <translation>離開</translation>
     </message>
 	<message>
       <source>ask list</source>
-      <translation>申请列表</translation>
+      <translation>申請列表</translation>
     </message>
 	<message>
       <source>agree anchor rob live</source>
-      <translation>允许主播抢麦</translation>
+      <translation>允許主播搶麥</translation>
     </message>
   </context>
   
@@ -1768,11 +1768,11 @@
   <context name="callname_dropdown_list_wnd">
     <message>
       <source>random call name</source>
-      <translation>随机点名</translation>
+      <translation>隨機點名</translation>
     </message>
 	<message>
       <source>call name</source>
-      <translation>指定点名</translation>
+      <translation>指定點名</translation>
     </message>
   </context>
   
@@ -1780,19 +1780,19 @@
   <context name="capture">
     <message>
       <source>time:</source>
-      <translation>计时:</translation>
+      <translation>計時:</translation>
     </message>
 	<message>
       <source>call name</source>
-      <translation>指定点名</translation>
+      <translation>指定點名</translation>
     </message>
     <message>
       <source>region size</source>
-      <translation>区域大小</translation>
+      <translation>區域大小</translation>
     </message>
 	<message>
       <source>recommend scale 16:9 for the best performance</source>
-      <translation>推荐使用16:9比例，达到最佳分享效果</translation>
+      <translation>推薦使用16:9比例，達到最佳分享效果</translation>
     </message>
 	<message>
       <source>cancel</source>
@@ -1800,15 +1800,15 @@
     </message>
 	<message>
       <source>start share</source>
-      <translation>开始分享</translation>
+      <translation>開始分享</translation>
     </message>
 	<message>
       <source>stop share</source>
-      <translation>结束分享</translation>
+      <translation>結束分享</translation>
     </message>
 	<message>
       <source>custom size</source>
-      <translation>自定义</translation>
+      <translation>自定義</translation>
     </message>
   </context>
   
@@ -1816,11 +1816,11 @@
   <context name="exam">
     <message>
       <source>exam</source>
-      <translation>考试</translation>
+      <translation>考試</translation>
     </message>
 	<message>
       <source>no content now</source>
-      <translation>暂无内容</translation>
+      <translation>暫無內容</translation>
     </message>
     <message>
       <source>push</source>
@@ -1828,7 +1828,7 @@
     </message>
 	<message>
       <source>scores</source>
-      <translation>成绩</translation>
+      <translation>成績</translation>
     </message>
 	<message>
       <source>pushed</source>
@@ -1836,7 +1836,7 @@
     </message>
 	<message>
       <source>query scores</source>
-      <translation>成绩查询</translation>
+      <translation>成績查詢</translation>
     </message>
 	<message>
       <source>marks</source>
@@ -1844,47 +1844,47 @@
     </message>
 	<message>
       <source>exam statistics</source>
-      <translation>考试统计</translation>
+      <translation>考試統計</translation>
     </message>
 	<message>
       <source>exam pass rate</source>
-      <translation>考试通过率</translation>
+      <translation>考試通過率</translation>
     </message>
 	<message>
       <source>number of participants</source>
-      <translation>参与人数</translation>
+      <translation>參與人數</translation>
     </message>
 	<message>
       <source>number of pass</source>
-      <translation>通过人数</translation>
+      <translation>通過人數</translation>
     </message>
 	<message>
       <source>top 10% of wronged questions</source>
-      <translation>本次考试错题前10</translation>
+      <translation>本次考試錯題前10</translation>
     </message>
 	<message>
       <source>wronged questions percent</source>
-      <translation>错题率</translation>
+      <translation>錯題率</translation>
     </message>
 	<message>
       <source>number of wrong answers</source>
-      <translation>错题次数</translation>
+      <translation>錯題次數</translation>
     </message>
 	<message>
       <source>times of answers</source>
-      <translation>答题次数</translation>
+      <translation>答題次數</translation>
     </message>
 	<message>
       <source>go to exam</source>
-      <translation>去考试</translation>
+      <translation>去考試</translation>
     </message>
 	<message>
       <source>all exam results</source>
-      <translation>全部成绩</translation>
+      <translation>全部成績</translation>
     </message>
 	<message>
       <source>person exam results</source>
-      <translation>个人最高成绩</translation>
+      <translation>個人最高成績</translation>
     </message>
   </context>
   
@@ -1892,15 +1892,15 @@
   <context name="group discuss">
     <message>
       <source>group discuss</source>
-      <translation>分组讨论</translation>
+      <translation>分組討論</translation>
     </message>
     <message>
       <source>group number:</source>
-      <translation>分组数量:</translation>
+      <translation>分組數量:</translation>
     </message>
     <message>
       <source>current student:</source>
-      <translation>当前学员:</translation>
+      <translation>當前學員:</translation>
     </message>
     <message>
       <source>total</source>
@@ -1908,33 +1908,33 @@
     </message>
     <message>
       <source>expected members of each group</source>
-      <translation>人, 预计每组成员</translation>
+      <translation>人, 預計每組成員</translation>
     </message>
     
     <message>
       <source>create group way:</source>
-      <translation>分组方式:</translation>
+      <translation>分組方式:</translation>
     </message>
     
     <message>
       <source>random</source>
-      <translation>随机分组</translation>
+      <translation>隨機分組</translation>
     </message>
     <message>
       <source>manual</source>
-      <translation>手动分组</translation>
+      <translation>手動分組</translation>
     </message>
     <message>
       <source>choose member</source>
-      <translation>选择成员</translation>
+      <translation>選擇成員</translation>
     </message>
     <message>
       <source>member list</source>
-      <translation>成员列表</translation>
+      <translation>成員列表</translation>
     </message>
     <message>
       <source>Grouping overview</source>
-      <translation>分组概览</translation>
+      <translation>分組概覽</translation>
     </message>
     <message>
       <source>></source>
@@ -1942,7 +1942,7 @@
     </message>
     <message>
       <source>group list</source>
-      <translation>分组人员列表 (</translation>
+      <translation>分組人員列表 (</translation>
     </message>
     <message>
       <source>group_person</source>
@@ -1950,32 +1950,32 @@
     </message>
     <message>
       <source>not joined group people</source>
-      <translation>未加入讨论学员</translation>
+      <translation>未加入討論學員</translation>
     </message>
     <message>
       <source>close</source>
-      <translation>关闭</translation>
+      <translation>關閉</translation>
     </message>
     <message>
       <source>not joined group count:</source>
-      <translation>未加入讨论组人数:</translation>
+      <translation>未加入討論組人數:</translation>
     </message>
     
     <message>
       <source>seleceted people</source>
-      <translation>已选人员 （</translation>
+      <translation>已選人員 （</translation>
     </message>
     <message>
       <source>Click on the left to select a group member</source>
-      <translation>可点击左侧选择小组成员</translation>
+      <translation>可點擊左側選擇小組成員</translation>
     </message>
     <message>
       <source>only show selectable member</source>
-      <translation>只展示可选人员</translation>
+      <translation>只展示可選人員</translation>
     </message>
     <message>
       <source>start a group discuss</source>
-      <translation>发起讨论</translation>
+      <translation>發起討論</translation>
     </message>
     <message>
       <source>person</source>
@@ -1984,23 +1984,23 @@
 
     <message>
       <source>group tips</source>
-      <translation>提示: 最多创建10个小组, 每组最多10人</translation>
+      <translation>提示: 最多創建10個小組, 每組最多10人</translation>
     </message>
     <message>
       <source>leader</source>
-      <translation>组长</translation>
+      <translation>組長</translation>
     </message>
     <message>
       <source>auto select leader</source>
-      <translation>随机选择组长</translation>
+      <translation>隨機選擇組長</translation>
     </message>
 	<message>
       <source>select leader</source>
-      <translation>指定组长</translation>
+      <translation>指定組長</translation>
     </message>
 	<message>
       <source>create group</source>
-      <translation>创建分组</translation>
+      <translation>創建分組</translation>
     </message>
 	<message>
       <source>marks</source>
@@ -2008,63 +2008,63 @@
     </message>
 	<message>
       <source>exam statistics</source>
-      <translation>考试统计</translation>
+      <translation>考試統計</translation>
     </message>
 	<message>
       <source>exam pass rate</source>
-      <translation>考试通过率</translation>
+      <translation>考試通過率</translation>
     </message>
 	<message>
       <source>number of participants</source>
-      <translation>参与人数</translation>
+      <translation>參與人數</translation>
     </message>
 	<message>
       <source>number of pass</source>
-      <translation>通过人数</translation>
+      <translation>通過人數</translation>
     </message>
 	<message>
       <source>top 10% of wronged questions</source>
-      <translation>本次考试错题前10</translation>
+      <translation>本次考試錯題前10</translation>
     </message>
 	<message>
       <source>wronged questions percent</source>
-      <translation>错题率</translation>
+      <translation>錯題率</translation>
     </message>
 	<message>
       <source>number of wrong answers</source>
-      <translation>错题次数</translation>
+      <translation>錯題次數</translation>
     </message>
 	<message>
       <source>times of answers</source>
-      <translation>答题次数</translation>
+      <translation>答題次數</translation>
     </message>
 	<message>
       <source>go to exam</source>
-      <translation>去考试</translation>
+      <translation>去考試</translation>
     </message>
 	<message>
       <source>discuss time:</source>
-      <translation>讨论计时：</translation>
+      <translation>討論計時：</translation>
     </message>
 	<message>
       <source>team leader</source>
-      <translation>组组长</translation>
+      <translation>組組長</translation>
     </message>
 	<message>
       <source>invite to interact live</source>
-      <translation>邀请连麦</translation>
+      <translation>邀請連麥</translation>
     </message>
 	<message>
       <source>end interact live</source>
-      <translation>结束连麦</translation>
+      <translation>結束連麥</translation>
     </message>
 	<message>
       <source>interact living...</source>
-      <translation>正在连麦...</translation>
+      <translation>正在連麥...</translation>
     </message>
 	<message>
       <source>choose leader</source>
-      <translation>选择组长</translation>
+      <translation>選擇組長</translation>
     </message>
 	<message>
       <source>search name</source>
@@ -2072,15 +2072,15 @@
     </message>
     <message>
       <source>search name or staff id</source>
-      <translation>搜索姓名或员工编号</translation>
+      <translation>搜索姓名或員工編號</translation>
     </message>
 	<message>
       <source>selected people:</source>
-      <translation>已选人员：</translation>
+      <translation>已選人員：</translation>
     </message>
 	<message>
       <source>ok</source>
-      <translation>确定</translation>
+      <translation>確定</translation>
     </message>
 	<message>
       <source>cancel</source>
@@ -2088,59 +2088,59 @@
     </message>
 	<message>
       <source>dismiss discuss</source>
-      <translation>解散分组</translation>
+      <translation>解散分組</translation>
     </message>
 	<message>
       <source>send notify</source>
-      <translation>发公告</translation>
+      <translation>發公告</translation>
     </message>
 	<message>
       <source>pause discuss</source>
-      <translation>暂停讨论</translation>
+      <translation>暫停討論</translation>
     </message>
 	<message>
       <source>group notify</source>
-      <translation>群公告</translation>
+      <translation>羣公告</translation>
     </message>
 	<message>
       <source>publish notify</source>
-      <translation>发布公告</translation>
+      <translation>發佈公告</translation>
     </message>
 	<message>
       <source>please input notify content</source>
-      <translation>请输入公告内容</translation>
+      <translation>請輸入公告內容</translation>
     </message>
 	<message>
       <source>*notify will be showed on each group</source>
-      <translation>*群公告将展示在每个分组</translation>
+      <translation>*羣公告將展示在每個分組</translation>
     </message>
 	<message>
       <source>send</source>
-      <translation>发送</translation>
+      <translation>發送</translation>
     </message>
 	<message>
       <source>anchor has created group discuss,you are in</source>
-      <translation>主讲老师已创建分组讨论，您在</translation>
+      <translation>主講老師已創建分組討論，您在</translation>
     </message>
 	<message>
       <source>after you will go to group automatically</source>
-      <translation>后自动进入分组讨论</translation>
+      <translation>後自動進入分組討論</translation>
     </message>
 	<message>
       <source>students</source>
-      <translation>学员</translation>
+      <translation>學員</translation>
     </message>
 	<message>
       <source>students randomly assign to group,10 members at most int each group,100 members all at most</source>
-      <translation>学员随机分组，每组最多10人，最多支持100人参与讨论</translation>
+      <translation>學員隨機分組，每組最多10人，最多支持100人參與討論</translation>
     </message>
 	<message>
       <source>students enter live room after group created do not participant group discuss</source>
-      <translation>分组讨论创建后才进入直播的学员，不参与分组讨论</translation>
+      <translation>分組討論創建後才進入直播的學員，不參與分組討論</translation>
     </message>
 	<message>
       <source>anchors and room admins can enter group</source>
-      <translation>主讲老师和助教可随时进入任意小组旁听或参与讨论</translation>
+      <translation>主講老師和助教可隨時進入任意小組旁聽或參與討論</translation>
     </message>
 	<message>
       <source>return to main live room</source>
@@ -2152,15 +2152,15 @@
     </message>
 	<message>
       <source>send notify to group</source>
-      <translation>群发公告</translation>
+      <translation>羣發公告</translation>
     </message>
 	<message>
       <source>camera</source>
-      <translation>摄像头</translation>
+      <translation>攝像頭</translation>
     </message>
 	<message>
       <source>mic</source>
-      <translation>麦克风</translation>
+      <translation>麥克風</translation>
     </message>
   </context>
   
@@ -2172,59 +2172,59 @@
     </message>
 	<message>
       <source>tipViewer</source>
-      <translation>人员</translation>
+      <translation>人員</translation>
     </message>
 	<message>
       <source>question</source>
-      <translation>问题</translation>
+      <translation>問題</translation>
     </message>
     <message>
       <source>no content now</source>
-      <translation>暂无内容</translation>
+      <translation>暫無內容</translation>
     </message>
 	<message>
       <source>loading...</source>
-      <translation>加载中...</translation>
+      <translation>加載中...</translation>
     </message>
 	<message>
       <source>query list fail</source>
-      <translation>获取列表失败</translation>
+      <translation>獲取列表失敗</translation>
     </message>
 	<message>
       <source>home</source>
-      <translation>返回主页</translation>
+      <translation>返回主頁</translation>
     </message>
 	<message>
       <source>sign in</source>
-      <translation>签到</translation>
+      <translation>籤到</translation>
     </message>
 	<message>
       <source>interact live forbidden</source>
-      <translation>禁止连麦</translation>
+      <translation>禁止連麥</translation>
     </message>
 	<message>
       <source>ask for interact live</source>
-      <translation>申请连麦</translation>
+      <translation>申請連麥</translation>
     </message>
 	<message>
       <source>cancel interact live</source>
-      <translation>取消连麦</translation>
+      <translation>取消連麥</translation>
     </message>
 	<message>
       <source>already req interact live</source>
-      <translation>已申请连麦</translation>
+      <translation>已申請連麥</translation>
     </message>
 	<message>
       <source>im que wall</source>
-      <translation>提问墙</translation>
+      <translation>提問牆</translation>
     </message>
 	<message>
       <source>que paper</source>
-      <translation>问卷</translation>
+      <translation>問卷</translation>
     </message>
 	<message>
       <source>exam</source>
-      <translation>考试</translation>
+      <translation>考試</translation>
     </message>
 	<message>
       <source>dismiss live room</source>
@@ -2236,15 +2236,15 @@
     </message>
 	<message>
       <source>setting</source>
-      <translation>设置</translation>
+      <translation>設置</translation>
     </message>
 	<message>
       <source>av setting</source>
-      <translation>音视频设置</translation>
+      <translation>音視頻設置</translation>
     </message>
 	<message>
       <source>logreport</source>
-      <translation>日志上报</translation>
+      <translation>日誌上報</translation>
     </message>
 	<message>
       <source>notify:</source>
@@ -2256,31 +2256,31 @@
     </message>
 	<message>
       <source>send message</source>
-      <translation>发消息</translation>
+      <translation>發消息</translation>
     </message>
 	<message>
       <source>send</source>
-      <translation>发送</translation>
+      <translation>發送</translation>
     </message>
 	<message>
       <source>private send to anchor</source>
-      <translation>私信主讲老师</translation>
+      <translation>私信主講老師</translation>
     </message>
 	<message>
       <source>send notify</source>
-      <translation>发公告</translation>
+      <translation>發公告</translation>
     </message>
 	<message>
       <source>ask anchor</source>
-      <translation>向老师提问</translation>
+      <translation>向老師提問</translation>
     </message>
 	<message>
       <source>mute all</source>
-      <translation>全员禁言</translation>
+      <translation>全員禁言</translation>
     </message>
 	<message>
       <source>no gift now...</source>
-      <translation>暂无礼物...</translation>
+      <translation>暫無禮物...</translation>
     </message>
 	<message>
       <source>my live room</source>
@@ -2288,7 +2288,7 @@
     </message>
 	<message>
       <source>switch identify</source>
-      <translation>切换身份</translation>
+      <translation>切換身份</translation>
     </message>
 	<message>
       <source>mute</source>
@@ -2296,67 +2296,67 @@
     </message>
 	<message>
       <source>the mic has been turned down to minimum volume</source>
-      <translation>麦克风音量已调到最小</translation>
+      <translation>麥克風音量已調到最小</translation>
     </message>
 	<message>
       <source>speaking...</source>
-      <translation>讲话中...</translation>
+      <translation>講話中...</translation>
     </message>
 	<message>
       <source>living end in:</source>
-      <translation>距离结束：</translation>
+      <translation>距離結束：</translation>
     </message>
 	<message>
       <source>minutes</source>
-      <translation>分钟</translation>
+      <translation>分鐘</translation>
     </message>
 	<message>
       <source>group discuss</source>
-      <translation>分组讨论</translation>
+      <translation>分組討論</translation>
     </message>
 	<message>
       <source>enter group</source>
-      <translation>进入小组</translation>
+      <translation>進入小組</translation>
     </message>
 	<message>
       <source>start</source>
-      <translation>开课</translation>
+      <translation>開課</translation>
     </message>
 	<message>
       <source>click the button to enter live room</source>
-      <translation>点击按钮上麦直播</translation>
+      <translation>點擊按鈕上麥直播</translation>
     </message>
 	<message>
       <source>ask to play</source>
-      <translation>申请上麦</translation>
+      <translation>申請上麥</translation>
     </message>
 	<message>
       <source>end play</source>
-      <translation>下麦</translation>
+      <translation>下麥</translation>
     </message>
 	<message>
       <source>end interact live</source>
-      <translation>结束连麦</translation>
+      <translation>結束連麥</translation>
     </message>
 	<message>
       <source>play list</source>
-      <translation>麦序</translation>
+      <translation>麥序</translation>
     </message>
 	<message>
       <source>anchor is leave now</source>
-      <translation>当前无人直播</translation>
+      <translation>當前無人直播</translation>
     </message>
 	<message>
       <source>choose camera:</source>
-      <translation>选择摄像头：</translation>
+      <translation>選擇攝像頭：</translation>
     </message>
 	<message>
       <source>choose mic:</source>
-      <translation>选择麦克风：</translation>
+      <translation>選擇麥克風：</translation>
     </message>
 	<message>
       <source>press and hold mic to record testing voice</source>
-      <translation>按住麦克风即可录入语音测试音效</translation>
+      <translation>按住麥克風即可錄入語音測試音效</translation>
     </message>
 	<message>
       <source>share screen</source>
@@ -2364,7 +2364,7 @@
     </message>
 	<message>
       <source>close share</source>
-      <translation>结束分享</translation>
+      <translation>結束分享</translation>
     </message>
 	<message>
       <source>share desktop</source>
@@ -2380,31 +2380,31 @@
     </message>
 	<message>
       <source>share region</source>
-      <translation>分享区域</translation>
+      <translation>分享區域</translation>
     </message>
 	<message>
       <source>share video</source>
-      <translation>分享视频</translation>
+      <translation>分享視頻</translation>
     </message>
 	<message>
       <source>hand up</source>
-      <translation>举手</translation>
+      <translation>舉手</translation>
     </message>
 	<message>
       <source>call name</source>
-      <translation>点名</translation>
+      <translation>點名</translation>
     </message>
 	<message>
       <source>rand call</source>
-      <translation>随机点名</translation>
+      <translation>隨機點名</translation>
     </message>
 	<message>
       <source>call the name</source>
-      <translation>指定点名</translation>
+      <translation>指定點名</translation>
     </message>
 	<message>
       <source>application</source>
-      <translation>应用</translation>
+      <translation>應用</translation>
     </message>
 	<message>
       <source>full screen</source>
@@ -2412,27 +2412,27 @@
     </message>
   </context>
   
-  <!--UI 连麦窗口主播-->
+  <!--UI 連麥窗口主播-->
   <context name="guest handup">
   	<message>
       <source>students interact live</source>
-      <translation>学员连麦</translation>
+      <translation>學員連麥</translation>
     </message>
 	<message>
       <source>allow students interact live</source>
-      <translation>允许学员连麦</translation>
+      <translation>允許學員連麥</translation>
     </message>
 	<message>
       <source>allow students hand up</source>
-      <translation>允许学员举手 </translation>
+      <translation>允許學員舉手 </translation>
     </message>
 	<message>
       <source>hand up</source>
-      <translation>举手</translation>
+      <translation>舉手</translation>
     </message>
 	<message>
       <source>hand up for interact live</source>
-      <translation>举手连麦</translation>
+      <translation>舉手連麥</translation>
     </message>
 	<message>
       <source>agree</source>
@@ -2440,42 +2440,42 @@
     </message>
 	<message>
       <source>wait other side response</source>
-      <translation>等待对方确认</translation>
+      <translation>等待對方確認</translation>
     </message>
 	<message>
       <source>interact live time:</source>
-      <translation>连麦时长：</translation>
+      <translation>連麥時長：</translation>
     </message>
 	<message>
       <source>end interact live</source>
-      <translation>结束连麦</translation>
+      <translation>結束連麥</translation>
     </message>
 
     <message>
       <source>after open handup</source>
-      <translation>开启举手后</translation>
+      <translation>開啓舉手後</translation>
     </message>
 
     <message>
       <source>student can play with you</source>
-      <translation>学员可连麦互动哦</translation>
+      <translation>學員可連麥互動哦</translation>
     </message>
 
     <message>
       <source>agree interact live</source>
-      <translation>同意连麦</translation>
+      <translation>同意連麥</translation>
     </message>
   </context>
   
-  <!--UI 提问墙-->
+  <!--UI 提問牆-->
   <context name="im que">
   	<message>
       <source>im que wall</source>
-      <translation>提问墙</translation>
+      <translation>提問牆</translation>
     </message>
 	<message>
       <source>im que list</source>
-      <translation>提问列表</translation>
+      <translation>提問列表</translation>
     </message>
 	<message>
       <source>answer</source>
@@ -2483,51 +2483,51 @@
     </message>
 	<message>
       <source>edit</source>
-      <translation>编辑</translation>
+      <translation>編輯</translation>
     </message>
 	<message>
       <source>no content now</source>
-      <translation>暂无内容</translation>
+      <translation>暫無內容</translation>
     </message>
 	<message>
       <source>first page</source>
-      <translation>首页</translation>
+      <translation>首頁</translation>
     </message>
 	<message>
       <source>last page</source>
-      <translation>尾页</translation>
+      <translation>尾頁</translation>
     </message>
 	<message>
       <source>on wall</source>
-      <translation>上墙</translation>
+      <translation>上牆</translation>
     </message>
 	<message>
       <source>already on wall</source>
-      <translation>已上墙</translation>
+      <translation>已上牆</translation>
     </message>
 	<message>
       <source>answer the question</source>
-      <translation>回答提问</translation>
+      <translation>回答提問</translation>
     </message>
 	<message>
       <source>send</source>
-      <translation>发送</translation>
+      <translation>發送</translation>
     </message>
 	<message>
       <source>students que auto show on wall</source>
-      <translation>学员提问自动上墙</translation>
+      <translation>學員提問自動上牆</translation>
     </message>
   </context>
   
-  <!--UI 直播协议-->
+  <!--UI 直播協議-->
   <context name="license agree">
   	<message>
       <source>before live,you should agree with</source>
-      <translation>开始直播前，您需要同意</translation>
+      <translation>開始直播前，您需要同意</translation>
     </message>
 	<message>
       <source>live agreement</source>
-      <translation>直播协议</translation>
+      <translation>直播協議</translation>
     </message>
 	<message>
       <source>agree</source>
@@ -2547,7 +2547,7 @@
     </message>
 	  <message>
       <source>no content now</source>
-      <translation>暂无内容</translation>
+      <translation>暫無內容</translation>
     </message>
 	<message>
       <source>agree</source>
@@ -2559,27 +2559,27 @@
     </message>
   </context>
   
-  <!--UI 登录-->
+  <!--UI 登錄-->
   <context name="login">
 	<message>
       <source>welcome to HR-X !</source>
-      <translation>欢迎来到 HR-X ！</translation>
+      <translation>歡迎來到 HR-X ！</translation>
     </message>
 	<message>
       <source>UM account</source>
-      <translation>UM 账号</translation>
+      <translation>UM 賬號</translation>
     </message>
   	<message>
       <source>identity setting</source>
-      <translation>身份设置</translation>
+      <translation>身份設置</translation>
     </message>
 	<message>
       <source>select enterprise identity</source>
-      <translation>选择登录的企业身份</translation>
+      <translation>選擇登錄的企業身份</translation>
     </message>
 	<message>
       <source>make sure</source>
-      <translation>确定进入</translation>
+      <translation>確定進入</translation>
     </message>
 	<message>
       <source>refresh</source>
@@ -2587,35 +2587,35 @@
     </message>
 	<message>
       <source>phone number</source>
-      <translation>手机号</translation>
+      <translation>手機號</translation>
     </message>
 	<message>
       <source>password</source>
-      <translation>密码</translation>
+      <translation>密碼</translation>
     </message>
 	<message>
       <source>get varification code</source>
-      <translation>获取验证码</translation>
+      <translation>獲取驗證碼</translation>
     </message>
 	<message>
       <source>save password</source>
-      <translation>保存密码</translation>
+      <translation>保存密碼</translation>
     </message>
 	<message>
       <source>qr code login</source>
-      <translation>扫码登录</translation>
+      <translation>掃碼登錄</translation>
     </message>
 	<message>
       <source>please make sure on your phone to login</source>
-      <translation>请在手机上点击确定以登录</translation>
+      <translation>請在手機上點擊確定以登錄</translation>
     </message>
 	<message>
       <source>login</source>
-      <translation>登录</translation>
+      <translation>登錄</translation>
     </message>
 	<message>
       <source>please scan qr code</source>
-      <translation>请使用APP扫码</translation>
+      <translation>請使用APP掃碼</translation>
     </message>
 	<message>
       <source>update now</source>
@@ -2623,31 +2623,31 @@
     </message>
 	<message>
       <source>downloadfail,please check network and download again</source>
-      <translation>下载失败，请检查网络后重新下载</translation>
+      <translation>下載失敗，請檢查網絡後重新下載</translation>
     </message>
   </context>
   
-  <!--UI 气氛-->
+  <!--UI 氣氛-->
   <context name="mood">
   	<message>
       <source>mood</source>
-      <translation>气氛</translation>
+      <translation>氣氛</translation>
     </message>
 	<message>
       <source>send mood</source>
-      <translation>制造气氛</translation>
+      <translation>製造氣氛</translation>
     </message>
   </context>
   
-  <!--UI 网速测试-->
+  <!--UI 網速測試-->
   <context name="network speed test">
   	<message>
       <source>network speed test</source>
-      <translation>网络测速</translation>
+      <translation>網絡測速</translation>
     </message>
 	<message>
       <source>excellent</source>
-      <translation>优</translation>
+      <translation>優</translation>
     </message>
 	<message>
       <source>slow</source>
@@ -2655,43 +2655,43 @@
     </message>
 	<message>
       <source>network delay</source>
-      <translation>网络延时</translation>
+      <translation>網絡延時</translation>
     </message>
 	<message>
       <source>start directly</source>
-      <translation>直接开始</translation>
+      <translation>直接開始</translation>
     </message>
 	<message>
       <source>network slow now,please check you internet connection,then start to live</source>
-      <translation>当前网络较差,请先检查您的网络环境,再重新开课</translation>
+      <translation>當前網絡較差,請先檢查您的網絡環境,再重新開課</translation>
     </message>
 	<message>
       <source>adjust the network and try again</source>
-      <translation>调整网络再试一次</translation>
+      <translation>調整網絡再試一次</translation>
     </message>
 	<message>
       <source>network delay is rare,live now</source>
-      <translation>放心大胆开课,较少有延迟情况</translation>
+      <translation>放心大膽開課,較少有延遲情況</translation>
     </message>
   </context>
   
-  <!--UI 红包-->
+  <!--UI 紅包-->
   <context name="red packet">
 	<message>
       <source>please input name to search</source>
-      <translation>请输入学员名称搜索</translation>
+      <translation>請輸入學員名稱搜索</translation>
     </message>
 	<message>
       <source>open packet</source>
-      <translation>拆红包</translation>
+      <translation>拆紅包</translation>
     </message>
 	<message>
       <source>red packet record</source>
-      <translation>红包记录</translation>
+      <translation>紅包記錄</translation>
     </message>
 	<message>
       <source>open red packet</source>
-      <translation>打开红包</translation>
+      <translation>打開紅包</translation>
     </message>
 	<message>
       <source>search</source>
@@ -2699,23 +2699,23 @@
     </message>
 	<message>
       <source>select lucky one</source>
-      <translation>选择幸运观众</translation>
+      <translation>選擇幸運觀眾</translation>
     </message>
 	<message>
       <source>set red packet</source>
-      <translation>设置红包</translation>
+      <translation>設置紅包</translation>
     </message>
 	<message>
       <source>lucky one :</source>
-      <translation>幸运观众 ：</translation>
+      <translation>幸運觀眾 ：</translation>
     </message>
 	<message>
       <source>available score :</source>
-      <translation>可用积分 ：</translation>
+      <translation>可用積分 ：</translation>
     </message>
 	<message>
       <source>red score :</source>
-      <translation>红包积分 ：</translation>
+      <translation>紅包積分 ：</translation>
     </message>
 	<message>
       <source>back to before</source>
@@ -2723,15 +2723,15 @@
     </message>
   </context>
   
-  <!--UI 连麦-->
+  <!--UI 連麥-->
   <context name="interact live">
     <message>
       <source>make sure count down</source>
-      <translation>确认倒计时</translation>
+      <translation>確認倒計時</translation>
     </message>
 	<message>
       <source>ok</source>
-      <translation>确定</translation>
+      <translation>確定</translation>
     </message>
 	<message>
       <source>cancel</source>
@@ -2739,23 +2739,23 @@
     </message>
 	<message>
       <source>audio interact live</source>
-      <translation>语音连麦</translation>
+      <translation>語音連麥</translation>
     </message>
 	<message>
       <source>video interact live</source>
-      <translation>视频连麦</translation>
+      <translation>視頻連麥</translation>
     </message>
 	<message>
       <source>connecting...</source>
-      <translation>连麦确认中...</translation>
+      <translation>連麥確認中...</translation>
     </message>
 	<message>
       <source>select name</source>
-      <translation>指定点名</translation>
+      <translation>指定點名</translation>
     </message>
 	<message>
       <source>please input name to search</source>
-      <translation>请输入学员名称搜索</translation>
+      <translation>請輸入學員名稱搜索</translation>
     </message>
 	<message>
       <source>search</source>
@@ -2763,15 +2763,15 @@
     </message>
 	<message>
       <source>call name</source>
-      <translation>点名</translation>
+      <translation>點名</translation>
     </message>
 	<message>
       <source>already called</source>
-      <translation>已点名</translation>
+      <translation>已點名</translation>
     </message>
 	<message>
       <source>rand call viewers</source>
-      <translation>随机抽取幸运观众</translation>
+      <translation>隨機抽取幸運觀眾</translation>
     </message>
   <message>
       <source>search name</source>
@@ -2779,33 +2779,33 @@
   </message>
   <message>
     <source>random call the roll</source>
-    <translation>随机点名</translation>
+    <translation>隨機點名</translation>
   </message>
   <message>
     <source>end interact live</source>
-    <translation>结束连麦</translation>
+    <translation>結束連麥</translation>
   </message>
     <message>
       <source>interact live</source>
-      <translation>连麦</translation>
+      <translation>連麥</translation>
     </message>
 
 
   </context>
   
-  <!--UI 试镜-->
+  <!--UI 試鏡-->
   <context name="previewdlg">
   	<message>
       <source>preview now</source>
-      <translation>试镜中</translation>
+      <translation>試鏡中</translation>
     </message>
 	<message>
       <source>preview to live</source>
-      <translation>上麦试镜</translation>
+      <translation>上麥試鏡</translation>
     </message>
 	<message>
       <source>smooth</source>
-    <translation>美颜</translation>
+    <translation>美顏</translation>
   </message>
   
   <message>
@@ -2814,23 +2814,23 @@
   </message>
   <message>
     <source>choose camera</source>
-    <translation>选择摄像头</translation>
+    <translation>選擇攝像頭</translation>
   </message>
   <message>
     <source>choose mic</source>
-    <translation>选择麦克风</translation>
+    <translation>選擇麥克風</translation>
   </message>
   <message>
     <source>start live</source>
-    <translation>开始直播</translation>
+    <translation>開始直播</translation>
   </message>
   <message>
     <source>ask for live</source>
-    <translation>申请直播</translation>
+    <translation>申請直播</translation>
   </message>
   <message>
     <source>ok</source>
-    <translation>确认</translation>
+    <translation>確認</translation>
   </message>
   <message>
     <source>cancel</source>
@@ -2838,15 +2838,15 @@
   </message>
 </context>
   
-  <!--UI 问卷-->
+  <!--UI 問卷-->
   <context name="question">
   	<message>
       <source>question</source>
-      <translation>问卷</translation>
+      <translation>問卷</translation>
     </message>
 	<message>
       <source>no content now</source>
-      <translation>暂无内容</translation>
+      <translation>暫無內容</translation>
     </message>
 	<message>
       <source>push</source>
@@ -2854,7 +2854,7 @@
     </message>
 	<message>
       <source>result</source>
-      <translation>结果</translation>
+      <translation>結果</translation>
     </message>
 	<message>
       <source>pushed</source>
@@ -2862,7 +2862,7 @@
     </message>
 	<message>
       <source>result detail</source>
-      <translation>答案详情</translation>
+      <translation>答案詳情</translation>
     </message>
 	<message>
       <source>go to answer</source>
@@ -2882,7 +2882,7 @@
   <context name="capture share">
   	<message>
       <source>choose a screen to share</source>
-      <translation>选择要分享的屏幕</translation>
+      <translation>選擇要分享的屏幕</translation>
     </message>
 	<message>
       <source>share screen</source>
@@ -2890,23 +2890,23 @@
     </message>
   </context>
   
-  <!--UI 设置-->
+  <!--UI 設置-->
   <context name="settings">
   	<message>
       <source>select camera</source>
-      <translation>选择摄像头</translation>
+      <translation>選擇攝像頭</translation>
     </message>
 	<message>
       <source>select mic</source>
-      <translation>选择麦克风</translation>
+      <translation>選擇麥克風</translation>
     </message>
 	<message>
       <source>press and hold mic to record testing voice</source>
-      <translation>按住麦克风即可录入语音测试音效</translation>
+      <translation>按住麥克風即可錄入語音測試音效</translation>
     </message>
 	<message>
       <source>smooth</source>
-      <translation>美颜</translation>
+      <translation>美顏</translation>
     </message>
 	<message>
       <source>white</source>
@@ -2918,19 +2918,19 @@
     </message>
 	<message>
       <source>settings</source>
-      <translation>设置</translation>
+      <translation>設置</translation>
     </message>
 	<message>
       <source>language</source>
-      <translation>语言</translation>
+      <translation>語言</translation>
     </message>
 	<message>
       <source>change skin</source>
-      <translation>个性换肤</translation>
+      <translation>個性換膚</translation>
     </message>
 	<message>
       <source>ok</source>
-      <translation>确定</translation>
+      <translation>確定</translation>
     </message>
 	<message>
       <source>cancel</source>
@@ -2938,39 +2938,39 @@
     </message>
   </context>
   
-  <!--UI 签到-->
+  <!--UI 籤到-->
   <context name="sign in">
   	<message>
       <source>sign in</source>
-      <translation>签到    </translation>
+      <translation>籤到    </translation>
     </message>
 	<message>
       <source>signed in</source>
-      <translation>已签到   </translation>
+      <translation>已籤到   </translation>
     </message>
 	<message>
       <source>allow sign in</source>
-      <translation>全员签到</translation>
+      <translation>全員籤到</translation>
     </message>
 	<message>
       <source>sign in count:</source>
-      <translation>已签到 </translation>
+      <translation>已籤到 </translation>
     </message>
 	<message>
       <source>duration:</source>
-      <translation>计时 </translation>
+      <translation>計時 </translation>
     </message>
 	<message>
       <source>first</source>
-      <translation>首页</translation>
+      <translation>首頁</translation>
     </message>
 	<message>
       <source>end</source>
-      <translation>尾页</translation>
+      <translation>尾頁</translation>
     </message>
    <message>
       <source>after open student can sign in</source>
-      <translation>开启后可发起学员签到</translation>
+      <translation>開啓後可發起學員籤到</translation>
     </message>
     <message>
       <source>reflush sign in</source>
@@ -2978,46 +2978,46 @@
     </message>
     <message>
       <source>current student count:</source>
-      <translation>当前人数 </translation>
+      <translation>當前人數 </translation>
     </message>
     <message>
       <source>add up people</source>
-      <translation>累计人数 </translation>
+      <translation>累計人數 </translation>
     </message>
     
     
 
   </context>
   
-  <!--UI 意见反馈-->
+  <!--UI 意見反饋-->
   <context name="feed_back">
   	<message>
       <source>feedback</source>
-      <translation>意见反馈</translation>
+      <translation>意見反饋</translation>
     </message>
 	<message>
       <source>image</source>
-      <translation>图片:</translation>
+      <translation>圖片:</translation>
     </message>
 	<message>
       <source>question type</source>
-      <translation>问题类型:</translation>
+      <translation>問題類型:</translation>
     </message>
 	<message>
       <source>question desc</source>
-      <translation>问题描述:</translation>
+      <translation>問題描述:</translation>
     </message>
 	<message>
       <source>system problem</source>
-      <translation>系统问题</translation>
+      <translation>系統問題</translation>
     </message>
 	<message>
       <source>action operation</source>
-      <translation>活动运营</translation>
+      <translation>活動運營</translation>
     </message>
 	<message>
       <source>optimization suggestion</source>
-      <translation>优化建议</translation>
+      <translation>優化建議</translation>
     </message>
 	<message>
       <source>other</source>
@@ -3025,15 +3025,15 @@
     </message>
 	<message>
       <source>click add</source>
-      <translation>点击添加</translation>
+      <translation>點擊添加</translation>
     </message>
 	<message>
       <source>please simple desc</source>
-      <translation>请简要描述</translation>
+      <translation>請簡要描述</translation>
     </message>
 	<message>
       <source>ok</source>
-      <translation>确定</translation>
+      <translation>確定</translation>
     </message>
 	<message>
       <source>cancel</source>
@@ -3045,15 +3045,15 @@
   <context name="user rate">
   	<message>
       <source>please rate for the live</source>
-      <translation>请给本场直播评分</translation>
+      <translation>請給本場直播評分</translation>
     </message>
 	<message>
       <source>please rate for the live objectively</source>
-      <translation>请为直播打出客观、公正的评分</translation>
+      <translation>請為直播打出客觀、公正的評分</translation>
     </message>
 	<message>
       <source>rate anonymously</source>
-      <translation>我要匿名评分</translation>
+      <translation>我要匿名評分</translation>
     </message>
 	<message>
       <source>leave any way</source>
@@ -3061,15 +3061,15 @@
     </message>
 	<message>
       <source>submit</source>
-      <translation>提交评分</translation>
+      <translation>提交評分</translation>
     </message>
   </context>
   
-  <!--UI 音量调节-->
+  <!--UI 音量調節-->
   <context name="volume control">
   	<message>
       <source>volume</source>
-      <translation>音量调整</translation>
+      <translation>音量調整</translation>
     </message>
   </context>
   
@@ -3077,7 +3077,7 @@
   <context name="net">
 	<message>
       <source>lost connect,reconnecting</source>
-      <translation>网络不稳定，连接中</translation>
+      <translation>網絡不穩定，連接中</translation>
     </message>
 	<message>
       <source>quit live room</source>
@@ -3089,11 +3089,11 @@
   <context name="person info">
   	<message>
       <source>follow</source>
-      <translation>关注</translation>
+      <translation>關注</translation>
     </message>
 	<message>
       <source>followed</source>
-      <translation>已关注</translation>
+      <translation>已關注</translation>
     </message>
 	<message>
       <source>mute</source>

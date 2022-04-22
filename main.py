@@ -2,6 +2,7 @@ import sys
 import os
 import convert
 from PyQt5.QtWidgets import QApplication, QMainWindow, QFileDialog, QMessageBox
+from PyQt5.QtGui import QIcon
 from PyQt5.uic import loadUi 
 
 
@@ -21,7 +22,8 @@ class win(QMainWindow):
     def __init__(self):
         super().__init__()
         self.resize(300,300)
-      
+        icon = "res/main.ico";
+        self.setWindowIcon(QIcon( resource_path(icon)))
         file = 'ui/convert_lang.ui'
         QMessageBox.information(self, "提示", resource_path(file))
         loadUi(resource_path(file), self)  #加载UI文件
