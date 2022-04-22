@@ -32,6 +32,7 @@ class win(QMainWindow):
         self.btnsrc.clicked.connect(self.open_file)  
         self.btndest.clicked.connect(self.save_file)  
         self.btncancel.clicked.connect(self.exit)
+        
     def convert_fun(self):
         src = self.le_src.text()
         dst = self.le_dest.text()
