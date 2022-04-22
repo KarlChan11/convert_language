@@ -31,7 +31,7 @@ class win(QMainWindow):
         self.btnConvert.clicked.connect(self.convert_fun)  #信号槽的连接
         self.btnsrc.clicked.connect(self.open_file)  
         self.btndest.clicked.connect(self.save_file)  
-
+        self.btncancel.clicked.connect(self.exit)
     def convert_fun(self):
         src = self.le_src.text()
         dst = self.le_dest.text()
@@ -57,8 +57,7 @@ class win(QMainWindow):
         print(fileType)
         self.le_dest.setText(fileName)
     def exit(self):
-        app = QApplication.instance()
-        app.quit()       
+        sys.exit()     
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
