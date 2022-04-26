@@ -11,11 +11,11 @@ zh-hant 繁體
 """
 
 
-def convertToZhtw(inputTsPath, outTsPath):
+def convertToZhtw(inputTsPath, outTsPath, type ='zh-hk'):
     with open(inputTsPath,'r', encoding='UTF-8') as f:
         content = f.read()
         with open(outTsPath,'w',encoding='UTF-8') as f1:
-            f1.write(zhconv.convert(content, 'zh-hk'))
+            f1.write(zhconv.convert(content, type))
 
 #copyfile(r"E:\refactor\hrx\live\palive\uires\soui\translation files\lang_zh-CN.xml", 'lang_zh-CN.xml')
 
